@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>高质量信源素材库｜核心精选</title>
+  </head>
+  <body>
+    <outline text="成长与学习" title="成长与学习">
+      <outline type="rss" text="80,000 Hours" title="80,000 Hours" xmlUrl="https://80000hours.org/feed/" htmlUrl="https://80000hours.org/research/"/>
+      <outline type="rss" text="The Learning Scientists" title="The Learning Scientists" xmlUrl="https://www.learningscientists.org/blog?format=rss" htmlUrl="https://www.learningscientists.org/blog"/>
+    </outline>
+    <outline text="地球、地理与城市" title="地球、地理与城市">
+      <outline type="rss" text="NASA Earth Observatory" title="NASA Earth Observatory" xmlUrl="https://science.nasa.gov/feed/?science_org=19791%2C22453" htmlUrl="https://earthobservatory.nasa.gov/"/>
+      <outline type="rss" text="NOAA" title="NOAA" xmlUrl="https://www.noaa.gov/rss.xml" htmlUrl="https://www.noaa.gov/news"/>
+      <outline type="rss" text="USGS Earthquakes" title="USGS Earthquakes" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom" htmlUrl="https://earthquake.usgs.gov/earthquakes/map/"/>
+      <outline type="rss" text="Places Journal" title="Places Journal" xmlUrl="https://placesjournal.org/feed/" htmlUrl="https://placesjournal.org/"/>
+    </outline>
+    <outline text="健康与福祉" title="健康与福祉">
+      <outline type="rss" text="American Academy of Sleep Medicine" title="American Academy of Sleep Medicine" xmlUrl="https://aasm.org/feed/" htmlUrl="https://aasm.org/"/>
+      <outline type="rss" text="CDC Morbidity and Mortality Weekly Report (MMWR)" title="CDC Morbidity and Mortality Weekly Report (MMWR)" xmlUrl="https://www.cdc.gov/mmwr/rss/mmwr.xml" htmlUrl="https://www.cdc.gov/mmwr/"/>
+      <outline type="rss" text="CDC Newsroom" title="CDC Newsroom" xmlUrl="https://tools.cdc.gov/api/v2/resources/media/132608.rss" htmlUrl="https://www.cdc.gov/media/index.html"/>
+      <outline type="rss" text="European Centre for Disease Prevention and Control News" title="European Centre for Disease Prevention and Control News" xmlUrl="https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed" htmlUrl="https://www.ecdc.europa.eu/en/news-events"/>
+      <outline type="rss" text="FDA Consumer Health Information Updates" title="FDA Consumer Health Information Updates" xmlUrl="https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/consumers/rss.xml" htmlUrl="https://www.fda.gov/consumers/consumer-updates"/>
+      <outline type="rss" text="PLOS Medicine" title="PLOS Medicine" xmlUrl="https://journals.plos.org/plosmedicine/feed/atom" htmlUrl="https://journals.plos.org/plosmedicine/"/>
+      <outline type="rss" text="World Health Organization Newsroom" title="World Health Organization Newsroom" xmlUrl="https://www.who.int/rss-feeds/news-english.xml" htmlUrl="https://www.who.int/news-room"/>
+      <outline type="rss" text="Advances in Nutrition" title="Advances in Nutrition" xmlUrl="https://advances.nutrition.org/action/showFeed?jc=advnut&amp;type=etoc&amp;feed=rss" htmlUrl="https://advances.nutrition.org/"/>
+      <outline type="rss" text="American Journal of Public Health" title="American Journal of Public Health" xmlUrl="https://ajph.aphapublications.org/action/showFeed?jc=ajph&amp;type=etoc&amp;feed=rss" htmlUrl="https://ajph.aphapublications.org/"/>
+      <outline type="rss" text="Annals of Internal Medicine" title="Annals of Internal Medicine" xmlUrl="https://www.acpjournals.org/action/showFeed?jc=aim&amp;type=etoc&amp;feed=rss" htmlUrl="https://www.acpjournals.org/journal/aim"/>
+      <outline type="rss" text="British Journal of Sports Medicine" title="British Journal of Sports Medicine" xmlUrl="https://bjsm.bmj.com/rss/recent.xml" htmlUrl="https://bjsm.bmj.com/"/>
+      <outline type="rss" text="Clinical Psychological Science" title="Clinical Psychological Science" xmlUrl="https://journals.sagepub.com/action/showFeed?jc=cpx&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/home/cpx"/>
+      <outline type="rss" text="European Journal of Public Health" title="European Journal of Public Health" xmlUrl="https://academic.oup.com/rss/site_5381/advanceAccess_3242.xml" htmlUrl="https://academic.oup.com/eurpub"/>
+      <outline type="rss" text="JAMA" title="JAMA" xmlUrl="https://jamanetwork.com/rss/site_3/67.xml" htmlUrl="https://jamanetwork.com/journals/jama"/>
+      <outline type="rss" text="Journal of Clinical Sleep Medicine" title="Journal of Clinical Sleep Medicine" xmlUrl="https://jcsm.aasm.org/action/showFeed?jc=jcsm&amp;type=etoc&amp;feed=rss" htmlUrl="https://jcsm.aasm.org/"/>
+      <outline type="rss" text="Nature Medicine" title="Nature Medicine" xmlUrl="https://www.nature.com/nm.rss" htmlUrl="https://www.nature.com/nm/"/>
+      <outline type="rss" text="Psychological Medicine" title="Psychological Medicine" xmlUrl="https://www.cambridge.org/core/rss/product/id/S0033291719001902/type/journal" htmlUrl="https://www.cambridge.org/core/journals/psychological-medicine"/>
+      <outline type="rss" text="SLEEP" title="SLEEP" xmlUrl="https://academic.oup.com/rss/site_5573/advanceAccess_3429.xml" htmlUrl="https://academic.oup.com/sleep"/>
+      <outline type="rss" text="The BMJ" title="The BMJ" xmlUrl="http://feeds.bmj.com/bmj/recent" htmlUrl="https://www.bmj.com/"/>
+      <outline type="rss" text="The Lancet" title="The Lancet" xmlUrl="https://www.thelancet.com/rssfeed/lancet_current.xml" htmlUrl="https://www.thelancet.com/journals/lancet/home"/>
+      <outline type="rss" text="The Lancet Psychiatry" title="The Lancet Psychiatry" xmlUrl="https://www.thelancet.com/rssfeed/lanpsy_current.xml" htmlUrl="https://www.thelancet.com/journals/lanpsy/home"/>
+      <outline type="rss" text="The New England Journal of Medicine" title="The New England Journal of Medicine" xmlUrl="https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss" htmlUrl="https://www.nejm.org/"/>
+    </outline>
+    <outline text="科学与数学" title="科学与数学">
+      <outline type="rss" text="CERN News" title="CERN News" xmlUrl="https://home.cern/feed/" htmlUrl="https://home.cern/news"/>
+      <outline type="rss" text="eLife" title="eLife" xmlUrl="https://elifesciences.org/rss/recent.xml" htmlUrl="https://elifesciences.org/"/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature/"/>
+      <outline type="rss" text="Science" title="Science" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/journal/science"/>
+    </outline>
+    <outline text="历史与考古" title="历史与考古">
+      <outline type="rss" text="Library of Congress Blogs" title="Library of Congress Blogs" xmlUrl="https://blogs.loc.gov/feed/" htmlUrl="https://blogs.loc.gov/"/>
+      <outline type="rss" text="Smithsonian Magazine - History" title="Smithsonian Magazine - History" xmlUrl="https://www.smithsonianmag.com/rss/history/" htmlUrl="https://www.smithsonianmag.com/history/"/>
+      <outline type="rss" text="Objectivity" title="Objectivity" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtwKon9qMt5YLVgQt1tvJKg" htmlUrl="https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg"/>
+    </outline>
+    <outline text="人文与跨学科" title="人文与跨学科">
+      <outline type="rss" text="Internet Archive Blog" title="Internet Archive Blog" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org/"/>
+      <outline type="rss" text="Our World in Data" title="Our World in Data" xmlUrl="https://ourworldindata.org/atom.xml" htmlUrl="https://ourworldindata.org/"/>
+      <outline type="rss" text="JSTOR Daily" title="JSTOR Daily" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org/"/>
+    </outline>
+    <outline text="商业、管理与创新" title="商业、管理与创新">
+      <outline type="rss" text="Kellogg Insight" title="Kellogg Insight" xmlUrl="https://insight.kellogg.northwestern.edu/feed/rss" htmlUrl="https://insight.kellogg.northwestern.edu/"/>
+      <outline type="rss" text="Knowledge at Wharton" title="Knowledge at Wharton" xmlUrl="https://knowledge.wharton.upenn.edu/feed/" htmlUrl="https://knowledge.wharton.upenn.edu/"/>
+      <outline type="rss" text="NBER Working Papers" title="NBER Working Papers" xmlUrl="https://back.nber.org/rss/new.xml" htmlUrl="https://www.nber.org/papers"/>
+    </outline>
+    <outline text="天文与太空" title="天文与太空">
+      <outline type="rss" text="ESA Space Science" title="ESA Space Science" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Space_Science" htmlUrl="https://www.esa.int/Science_Exploration/Space_Science"/>
+      <outline type="rss" text="NASA JPL" title="NASA JPL" xmlUrl="https://www.jpl.nasa.gov/feeds/news/" htmlUrl="https://www.jpl.nasa.gov/news/"/>
+      <outline type="rss" text="NASA News" title="NASA News" xmlUrl="https://www.nasa.gov/news-release/feed/" htmlUrl="https://www.nasa.gov/news/"/>
+    </outline>
+    <outline text="心理、认知与情商" title="心理、认知与情商">
+      <outline type="rss" text="BMJ Mental Health" title="BMJ Mental Health" xmlUrl="https://mentalhealth.bmj.com/rss/current.xml" htmlUrl="https://mentalhealth.bmj.com/"/>
+      <outline type="rss" text="Campbell Collaboration" title="Campbell Collaboration" xmlUrl="https://www.campbellcollaboration.org/feed/" htmlUrl="https://www.campbellcollaboration.org/"/>
+      <outline type="rss" text="Cochrane Global Mental Health" title="Cochrane Global Mental Health" xmlUrl="https://www.cochrane.org/about-us/news/all/rss" htmlUrl="https://globalmentalhealth.cochrane.org/evidence"/>
+      <outline type="rss" text="Emotion Review" title="Emotion Review" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=emra" htmlUrl="https://journals.sagepub.com/home/emr"/>
+      <outline type="rss" text="Nature Human Behaviour" title="Nature Human Behaviour" xmlUrl="https://www.nature.com/nathumbehav.rss" htmlUrl="https://www.nature.com/nathumbehav/"/>
+      <outline type="rss" text="Nature Reviews Psychology" title="Nature Reviews Psychology" xmlUrl="https://www.nature.com/nrpsychol.rss" htmlUrl="https://www.nature.com/nrpsychol/"/>
+      <outline type="rss" text="Perspectives on Psychological Science" title="Perspectives on Psychological Science" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ppsa" htmlUrl="https://www.psychologicalscience.org/publications/perspectives"/>
+      <outline type="rss" text="Psychological Science" title="Psychological Science" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pssa" htmlUrl="https://www.psychologicalscience.org/publications/psychological_science"/>
+      <outline type="rss" text="Psychological Science in the Public Interest（PSPI）" title="Psychological Science in the Public Interest（PSPI）" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=psia" htmlUrl="https://www.psychologicalscience.org/publications/pspi"/>
+      <outline type="rss" text="Social Psychological and Personality Science" title="Social Psychological and Personality Science" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sppa" htmlUrl="https://journals.sagepub.com/home/spp"/>
+      <outline type="rss" text="Stanford Center for Compassion and Altruism Research and Education（CCARE）" title="Stanford Center for Compassion and Altruism Research and Education（CCARE）" xmlUrl="https://ccare.stanford.edu/feed/" htmlUrl="https://ccare.stanford.edu/"/>
+      <outline type="rss" text="Trends in Cognitive Sciences（TICS）" title="Trends in Cognitive Sciences（TICS）" xmlUrl="https://www.cell.com/trends/cognitive-sciences/rss" htmlUrl="https://www.cell.com/trends/cognitive-sciences/home"/>
+    </outline>
+    <outline text="新闻与调查" title="新闻与调查">
+      <outline type="rss" text="BBC World News" title="BBC World News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news/world"/>
+      <outline type="rss" text="Bellingcat" title="Bellingcat" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/"/>
+      <outline type="rss" text="Rest of World" title="Rest of World" xmlUrl="https://restofworld.org/feed/latest/" htmlUrl="https://restofworld.org/"/>
+      <outline type="rss" text="404 Media" title="404 Media" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+    </outline>
+    <outline text="哲学与思想" title="哲学与思想">
+      <outline type="rss" text="Stanford Encyclopedia of Philosophy" title="Stanford Encyclopedia of Philosophy" xmlUrl="https://plato.stanford.edu/rss/sep.xml" htmlUrl="https://plato.stanford.edu/"/>
+    </outline>
+    <outline text="AI、科技与工程" title="AI、科技与工程">
+      <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="https://github.blog/engineering/feed/" htmlUrl="https://github.blog/engineering/"/>
+      <outline type="rss" text="Apple Machine Learning Research" title="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com/"/>
+      <outline type="rss" text="Cloudflare Blog" title="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
+      <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/"/>
+      <outline type="rss" text="Google Research Blog" title="Google Research Blog" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/"/>
+      <outline type="rss" text="Hugging Face Blog" title="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
+      <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
+      <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/"/>
+      <outline type="rss" text="ACM Queue" title="ACM Queue" xmlUrl="https://queue.acm.org/rss/feeds/queuecontent.xml" htmlUrl="https://queue.acm.org/"/>
+    </outline>
+  </body>
+</opml>

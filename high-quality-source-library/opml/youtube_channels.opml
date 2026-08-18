@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>YouTube 高质量创作者频道 RSS</title>
+  </head>
+  <body>
+    <outline text="地球、地理与城市" title="地球、地理与城市">
+      <outline type="rss" text="Atlas Pro" title="Atlas Pro" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz1oFxMrgrQ82-276UCOU9w" htmlUrl="https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w"/>
+      <outline type="rss" text="CGP Grey" title="CGP Grey" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w" htmlUrl="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"/>
+      <outline type="rss" text="City Beautiful" title="City Beautiful" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGc8ZVCsrR3dAuhvUbkbToQ" htmlUrl="https://www.youtube.com/channel/UCGc8ZVCsrR3dAuhvUbkbToQ"/>
+      <outline type="rss" text="Geography Now" title="Geography Now" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmmPgObSUPw1HL2lq6H4ffA" htmlUrl="https://www.youtube.com/channel/UCmmPgObSUPw1HL2lq6H4ffA"/>
+      <outline type="rss" text="Not Just Bikes" title="Not Just Bikes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A" htmlUrl="https://www.youtube.com/channel/UC0intLFzLaudFG-xAvUEO-A"/>
+      <outline type="rss" text="Practical Engineering" title="Practical Engineering" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ" htmlUrl="https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ"/>
+      <outline type="rss" text="Tom Scott" title="Tom Scott" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" htmlUrl="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A"/>
+      <outline type="rss" text="DamiLee" title="DamiLee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_2hNMxOzNjviJBiLWHMqg" htmlUrl="https://www.youtube.com/channel/UCJ_2hNMxOzNjviJBiLWHMqg"/>
+      <outline type="rss" text="Neo" title="Neo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtYKe7-XbaDjpUwcU5x0bLg" htmlUrl="https://www.youtube.com/channel/UCtYKe7-XbaDjpUwcU5x0bLg"/>
+      <outline type="rss" text="RealLifeLore" title="RealLifeLore" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww" htmlUrl="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww"/>
+      <outline type="rss" text="Wendover Productions" title="Wendover Productions" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ" htmlUrl="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ"/>
+    </outline>
+    <outline text="科学与数学" title="科学与数学">
+      <outline type="rss" text="3Blue1Brown" title="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
+      <outline type="rss" text="Be Smart" title="Be Smart" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw" htmlUrl="https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw"/>
+      <outline type="rss" text="Crash Course" title="Crash Course" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q" htmlUrl="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q"/>
+      <outline type="rss" text="Deep Look" title="Deep Look" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-3SbfTPJsL8fJAPKiVqBLg" htmlUrl="https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg"/>
+      <outline type="rss" text="Kurzgesagt" title="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"/>
+      <outline type="rss" text="minutephysics" title="minutephysics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg" htmlUrl="https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg"/>
+      <outline type="rss" text="Numberphile" title="Numberphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A"/>
+      <outline type="rss" text="Smarter Every Day" title="Smarter Every Day" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA"/>
+      <outline type="rss" text="Stand-up Maths" title="Stand-up Maths" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A" htmlUrl="https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A"/>
+      <outline type="rss" text="Veritasium" title="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+    </outline>
+    <outline text="历史与考古" title="历史与考古">
+      <outline type="rss" text="Objectivity" title="Objectivity" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtwKon9qMt5YLVgQt1tvJKg" htmlUrl="https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg"/>
+      <outline type="rss" text="Fall of Civilizations" title="Fall of Civilizations" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6Y5JJPKe_JDMivpKgVXew" htmlUrl="https://www.youtube.com/channel/UCT6Y5JJPKe_JDMivpKgVXew"/>
+      <outline type="rss" text="Historia Civilis" title="Historia Civilis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv_vLHiWVBh_FR9vbeuiY-A" htmlUrl="https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A"/>
+      <outline type="rss" text="History Matters" title="History Matters" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC22BdTgxefuvUivrjesETjg" htmlUrl="https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg"/>
+      <outline type="rss" text="Taiwan Bar" title="Taiwan Bar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRNsHFT7BFoAPBcuAa5sgEQ" htmlUrl="https://www.youtube.com/channel/UCRNsHFT7BFoAPBcuAa5sgEQ"/>
+      <outline type="rss" text="Told in Stone" title="Told in Stone" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqBiWcuTF8IaLH7wBqnihsQ" htmlUrl="https://www.youtube.com/channel/UCqBiWcuTF8IaLH7wBqnihsQ"/>
+      <outline type="rss" text="Voices of the Past" title="Voices of the Past" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqoGR_EedlhKDVuWNwYWRbg" htmlUrl="https://www.youtube.com/channel/UCqoGR_EedlhKDVuWNwYWRbg"/>
+    </outline>
+    <outline text="人文与跨学科" title="人文与跨学科">
+      <outline type="rss" text="TED-Ed" title="TED-Ed" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA" htmlUrl="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA"/>
+      <outline type="rss" text="fern" title="fern" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ" htmlUrl="https://www.youtube.com/channel/UCODHrzPMGbNv67e84WDZhQQ"/>
+    </outline>
+    <outline text="商业、管理与创新" title="商业、管理与创新">
+      <outline type="rss" text="PolyMatter" title="PolyMatter" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgNg3vwj3xt7QOrcIDaHdFg" htmlUrl="https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg"/>
+    </outline>
+    <outline text="数据与可视化" title="数据与可视化">
+      <outline type="rss" text="Branch Education" title="Branch Education" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ" htmlUrl="https://www.youtube.com/channel/UCdp4_l1vPmpN-gDbUwhaRUQ"/>
+    </outline>
+    <outline text="天文与太空" title="天文与太空">
+      <outline type="rss" text="Anton Petrov" title="Anton Petrov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ" htmlUrl="https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ"/>
+      <outline type="rss" text="Astrum" title="Astrum" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-9b7aDP6ZN0coj9-xFnrtw" htmlUrl="https://www.youtube.com/channel/UC-9b7aDP6ZN0coj9-xFnrtw"/>
+      <outline type="rss" text="Cool Worlds" title="Cool Worlds" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA" htmlUrl="https://www.youtube.com/channel/UCGHZpIpAWJQ-Jy_CeCdXhMA"/>
+      <outline type="rss" text="Dr Becky" title="Dr Becky" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYNbYGl89UUowy8oXkipC-Q" htmlUrl="https://www.youtube.com/channel/UCYNbYGl89UUowy8oXkipC-Q"/>
+      <outline type="rss" text="PBS Space Time" title="PBS Space Time" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g" htmlUrl="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"/>
+    </outline>
+    <outline text="新闻与调查" title="新闻与调查">
+      <outline type="rss" text="Vox" title="Vox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA" htmlUrl="https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA"/>
+    </outline>
+    <outline text="艺术、设计与建筑" title="艺术、设计与建筑">
+      <outline type="rss" text="Louisiana Channel" title="Louisiana Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY2mhw-XNZSxrUynsI5K8Zw" htmlUrl="https://www.youtube.com/channel/UCY2mhw-XNZSxrUynsI5K8Zw"/>
+      <outline type="rss" text="Every Frame a Painting" title="Every Frame a Painting" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjFqcJQXGZ6T6sxyFB-5i6A" htmlUrl="https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A"/>
+      <outline type="rss" text="Flux Academy" title="Flux Academy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN7dywl5wDxTu1RM3eJ_h9Q" htmlUrl="https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q"/>
+      <outline type="rss" text="Great Art Explained" title="Great Art Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCePDFpCr78_qmVtpoB1Axaw" htmlUrl="https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw"/>
+      <outline type="rss" text="Nerdwriter1" title="Nerdwriter1" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg" htmlUrl="https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg"/>
+      <outline type="rss" text="Stewart Hicks" title="Stewart Hicks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYAm24PkejQR2xMgJgn7xwg" htmlUrl="https://www.youtube.com/channel/UCYAm24PkejQR2xMgJgn7xwg"/>
+      <outline type="rss" text="The Art Assignment" title="The Art Assignment" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmQThz1OLYt8mb2PU540LOA" htmlUrl="https://www.youtube.com/channel/UCmQThz1OLYt8mb2PU540LOA"/>
+      <outline type="rss" text="The Futur" title="The Futur" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-b3c7kxa5vU-bnmaROgvog" htmlUrl="https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog"/>
+      <outline type="rss" text="影视飓风 MediaStorm" title="影视飓风 MediaStorm" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa91Shr2Old7rhvdBSPnVBw" htmlUrl="https://www.youtube.com/channel/UCa91Shr2Old7rhvdBSPnVBw"/>
+    </outline>
+    <outline text="哲学与思想" title="哲学与思想">
+      <outline type="rss" text="Closer To Truth" title="Closer To Truth" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl9StMQ79LtEvlrskzjoYbQ" htmlUrl="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ"/>
+      <outline type="rss" text="Philosophy Tube" title="Philosophy Tube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ" htmlUrl="https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"/>
+      <outline type="rss" text="Then &amp; Now" title="Then &amp; Now" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkS_HP3m9NXOgswVAKbMeJQ" htmlUrl="https://www.youtube.com/channel/UCkS_HP3m9NXOgswVAKbMeJQ"/>
+      <outline type="rss" text="Vsauce" title="Vsauce" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA" htmlUrl="https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA"/>
+    </outline>
+    <outline text="AI、科技与工程" title="AI、科技与工程">
+      <outline type="rss" text="Andrej Karpathy" title="Andrej Karpathy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ" htmlUrl="https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ"/>
+      <outline type="rss" text="Asianometry" title="Asianometry" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1LpsuAUaKoMzzJSEt5WImw" htmlUrl="https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw"/>
+      <outline type="rss" text="Computerphile" title="Computerphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
+      <outline type="rss" text="Technology Connections" title="Technology Connections" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q" htmlUrl="https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q"/>
+      <outline type="rss" text="Two Minute Papers" title="Two Minute Papers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" htmlUrl="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"/>
+      <outline type="rss" text="ColdFusion" title="ColdFusion" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A" htmlUrl="https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A"/>
+      <outline type="rss" text="Fireship" title="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"/>
+    </outline>
+  </body>
+</opml>

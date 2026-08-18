@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>高质量信源素材库｜全量可导入</title>
+  </head>
+  <body>
+    <outline text="成长与学习" title="成长与学习">
+      <outline type="rss" text="80,000 Hours" title="80,000 Hours" xmlUrl="https://80000hours.org/feed/" htmlUrl="https://80000hours.org/research/"/>
+      <outline type="rss" text="The Learning Scientists" title="The Learning Scientists" xmlUrl="https://www.learningscientists.org/blog?format=rss" htmlUrl="https://www.learningscientists.org/blog"/>
+      <outline type="rss" text="Behavioral Scientist" title="Behavioral Scientist" xmlUrl="https://behavioralscientist.org/feed/" htmlUrl="https://behavioralscientist.org/"/>
+      <outline type="rss" text="James Clear" title="James Clear" xmlUrl="https://jamesclear.com/feed" htmlUrl="https://jamesclear.com/articles"/>
+      <outline type="rss" text="ReThinking with Adam Grant" title="ReThinking with Adam Grant" xmlUrl="https://feeds.acast.com/public/shows/675858676d1777b3683ec351" htmlUrl="https://www.ted.com/podcasts/rethinking-with-adam-grant"/>
+      <outline type="rss" text="Retrieval Practice" title="Retrieval Practice" xmlUrl="https://www.retrievalpractice.org/strategies?format=rss" htmlUrl="https://www.retrievalpractice.org/"/>
+      <outline type="rss" text="Farnam Street" title="Farnam Street" xmlUrl="https://fs.blog/feed/" htmlUrl="https://fs.blog/"/>
+      <outline type="rss" text="Ness Labs" title="Ness Labs" xmlUrl="https://nesslabs.com/feed" htmlUrl="https://nesslabs.com/"/>
+      <outline type="rss" text="The Pragmatic Engineer" title="The Pragmatic Engineer" xmlUrl="https://blog.pragmaticengineer.com/rss/" htmlUrl="https://blog.pragmaticengineer.com/"/>
+      <outline type="rss" text="Ask a Manager" title="Ask a Manager" xmlUrl="https://www.askamanager.org/feed" htmlUrl="https://www.askamanager.org/"/>
+      <outline type="rss" text="Cal Newport" title="Cal Newport" xmlUrl="https://calnewport.com/feed/" htmlUrl="https://calnewport.com/blog/"/>
+      <outline type="rss" text="Scott H Young" title="Scott H Young" xmlUrl="https://www.scotthyoung.com/blog/feed/" htmlUrl="https://www.scotthyoung.com/blog/"/>
+      <outline type="rss" text="Lenny's Newsletter" title="Lenny's Newsletter" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl="https://www.lennysnewsletter.com/"/>
+    </outline>
+    <outline text="地球、地理与城市" title="地球、地理与城市">
+      <outline type="rss" text="NASA Earth Observatory" title="NASA Earth Observatory" xmlUrl="https://science.nasa.gov/feed/?science_org=19791%2C22453" htmlUrl="https://earthobservatory.nasa.gov/"/>
+      <outline type="rss" text="NOAA" title="NOAA" xmlUrl="https://www.noaa.gov/rss.xml" htmlUrl="https://www.noaa.gov/news"/>
+      <outline type="rss" text="USGS Earthquakes" title="USGS Earthquakes" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom" htmlUrl="https://earthquake.usgs.gov/earthquakes/map/"/>
+      <outline type="rss" text="Places Journal" title="Places Journal" xmlUrl="https://placesjournal.org/feed/" htmlUrl="https://placesjournal.org/"/>
+      <outline type="rss" text="Atlas Pro" title="Atlas Pro" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz1oFxMrgrQ82-276UCOU9w" htmlUrl="https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w"/>
+      <outline type="rss" text="CGP Grey" title="CGP Grey" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w" htmlUrl="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"/>
+      <outline type="rss" text="City Beautiful" title="City Beautiful" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGc8ZVCsrR3dAuhvUbkbToQ" htmlUrl="https://www.youtube.com/channel/UCGc8ZVCsrR3dAuhvUbkbToQ"/>
+      <outline type="rss" text="Eos / AGU" title="Eos / AGU" xmlUrl="https://eos.org/feed" htmlUrl="https://eos.org/"/>
+      <outline type="rss" text="Geography Now" title="Geography Now" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmmPgObSUPw1HL2lq6H4ffA" htmlUrl="https://www.youtube.com/channel/UCmmPgObSUPw1HL2lq6H4ffA"/>
+      <outline type="rss" text="Not Just Bikes" title="Not Just Bikes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A" htmlUrl="https://www.youtube.com/channel/UC0intLFzLaudFG-xAvUEO-A"/>
+      <outline type="rss" text="Practical Engineering" title="Practical Engineering" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ" htmlUrl="https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ"/>
+      <outline type="rss" text="Tom Scott" title="Tom Scott" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" htmlUrl="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A"/>
+      <outline type="rss" text="DamiLee" title="DamiLee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_2hNMxOzNjviJBiLWHMqg" htmlUrl="https://www.youtube.com/channel/UCJ_2hNMxOzNjviJBiLWHMqg"/>
+      <outline type="rss" text="Neo" title="Neo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtYKe7-XbaDjpUwcU5x0bLg" htmlUrl="https://www.youtube.com/channel/UCtYKe7-XbaDjpUwcU5x0bLg"/>
+      <outline type="rss" text="RealLifeLore" title="RealLifeLore" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww" htmlUrl="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww"/>
+      <outline type="rss" text="Wendover Productions" title="Wendover Productions" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ" htmlUrl="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ"/>
+    </outline>
+    <outline text="健康与福祉" title="健康与福祉">
+      <outline type="rss" text="American Academy of Sleep Medicine" title="American Academy of Sleep Medicine" xmlUrl="https://aasm.org/feed/" htmlUrl="https://aasm.org/"/>
+      <outline type="rss" text="CDC Morbidity and Mortality Weekly Report (MMWR)" title="CDC Morbidity and Mortality Weekly Report (MMWR)" xmlUrl="https://www.cdc.gov/mmwr/rss/mmwr.xml" htmlUrl="https://www.cdc.gov/mmwr/"/>
+      <outline type="rss" text="CDC Newsroom" title="CDC Newsroom" xmlUrl="https://tools.cdc.gov/api/v2/resources/media/132608.rss" htmlUrl="https://www.cdc.gov/media/index.html"/>
+      <outline type="rss" text="European Centre for Disease Prevention and Control News" title="European Centre for Disease Prevention and Control News" xmlUrl="https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed" htmlUrl="https://www.ecdc.europa.eu/en/news-events"/>
+      <outline type="rss" text="FDA Consumer Health Information Updates" title="FDA Consumer Health Information Updates" xmlUrl="https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/consumers/rss.xml" htmlUrl="https://www.fda.gov/consumers/consumer-updates"/>
+      <outline type="rss" text="PLOS Medicine" title="PLOS Medicine" xmlUrl="https://journals.plos.org/plosmedicine/feed/atom" htmlUrl="https://journals.plos.org/plosmedicine/"/>
+      <outline type="rss" text="World Health Organization Newsroom" title="World Health Organization Newsroom" xmlUrl="https://www.who.int/rss-feeds/news-english.xml" htmlUrl="https://www.who.int/news-room"/>
+      <outline type="rss" text="Advances in Nutrition" title="Advances in Nutrition" xmlUrl="https://advances.nutrition.org/action/showFeed?jc=advnut&amp;type=etoc&amp;feed=rss" htmlUrl="https://advances.nutrition.org/"/>
+      <outline type="rss" text="American Journal of Public Health" title="American Journal of Public Health" xmlUrl="https://ajph.aphapublications.org/action/showFeed?jc=ajph&amp;type=etoc&amp;feed=rss" htmlUrl="https://ajph.aphapublications.org/"/>
+      <outline type="rss" text="Annals of Internal Medicine" title="Annals of Internal Medicine" xmlUrl="https://www.acpjournals.org/action/showFeed?jc=aim&amp;type=etoc&amp;feed=rss" htmlUrl="https://www.acpjournals.org/journal/aim"/>
+      <outline type="rss" text="British Journal of Sports Medicine" title="British Journal of Sports Medicine" xmlUrl="https://bjsm.bmj.com/rss/recent.xml" htmlUrl="https://bjsm.bmj.com/"/>
+      <outline type="rss" text="Clinical Psychological Science" title="Clinical Psychological Science" xmlUrl="https://journals.sagepub.com/action/showFeed?jc=cpx&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/home/cpx"/>
+      <outline type="rss" text="European Journal of Public Health" title="European Journal of Public Health" xmlUrl="https://academic.oup.com/rss/site_5381/advanceAccess_3242.xml" htmlUrl="https://academic.oup.com/eurpub"/>
+      <outline type="rss" text="JAMA" title="JAMA" xmlUrl="https://jamanetwork.com/rss/site_3/67.xml" htmlUrl="https://jamanetwork.com/journals/jama"/>
+      <outline type="rss" text="Journal of Clinical Sleep Medicine" title="Journal of Clinical Sleep Medicine" xmlUrl="https://jcsm.aasm.org/action/showFeed?jc=jcsm&amp;type=etoc&amp;feed=rss" htmlUrl="https://jcsm.aasm.org/"/>
+      <outline type="rss" text="Nature Medicine" title="Nature Medicine" xmlUrl="https://www.nature.com/nm.rss" htmlUrl="https://www.nature.com/nm/"/>
+      <outline type="rss" text="Psychological Medicine" title="Psychological Medicine" xmlUrl="https://www.cambridge.org/core/rss/product/id/S0033291719001902/type/journal" htmlUrl="https://www.cambridge.org/core/journals/psychological-medicine"/>
+      <outline type="rss" text="SLEEP" title="SLEEP" xmlUrl="https://academic.oup.com/rss/site_5573/advanceAccess_3429.xml" htmlUrl="https://academic.oup.com/sleep"/>
+      <outline type="rss" text="The BMJ" title="The BMJ" xmlUrl="http://feeds.bmj.com/bmj/recent" htmlUrl="https://www.bmj.com/"/>
+      <outline type="rss" text="The Lancet" title="The Lancet" xmlUrl="https://www.thelancet.com/rssfeed/lancet_current.xml" htmlUrl="https://www.thelancet.com/journals/lancet/home"/>
+      <outline type="rss" text="The Lancet Psychiatry" title="The Lancet Psychiatry" xmlUrl="https://www.thelancet.com/rssfeed/lanpsy_current.xml" htmlUrl="https://www.thelancet.com/journals/lanpsy/home"/>
+      <outline type="rss" text="The New England Journal of Medicine" title="The New England Journal of Medicine" xmlUrl="https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss" htmlUrl="https://www.nejm.org/"/>
+      <outline type="rss" text="American College of Sports Medicine Blog" title="American College of Sports Medicine Blog" xmlUrl="https://acsm.org/feed/" htmlUrl="https://acsm.org/category/acsm-blog/"/>
+      <outline type="rss" text="Harvard T.H. Chan — The Nutrition Source" title="Harvard T.H. Chan — The Nutrition Source" xmlUrl="https://nutritionsource.hsph.harvard.edu/feed/" htmlUrl="https://nutritionsource.hsph.harvard.edu/"/>
+      <outline type="rss" text="MedlinePlus What's New" title="MedlinePlus What's New" xmlUrl="https://medlineplus.gov/feeds/whatsnew.xml" htmlUrl="https://medlineplus.gov/"/>
+      <outline type="rss" text="NIH News in Health" title="NIH News in Health" xmlUrl="https://newsinhealth.nih.gov/rss.xml" htmlUrl="https://newsinhealth.nih.gov/"/>
+      <outline type="rss" text="NIH Research Matters" title="NIH Research Matters" xmlUrl="https://www.nih.gov/news-events/nih-research-matters/rss.xml" htmlUrl="https://www.nih.gov/news-events/nih-research-matters"/>
+      <outline type="rss" text="Our World in Data — Global Health" title="Our World in Data — Global Health" xmlUrl="https://ourworldindata.org/atom.xml" htmlUrl="https://ourworldindata.org/global-health"/>
+      <outline type="rss" text="Sleep Foundation" title="Sleep Foundation" xmlUrl="https://www.sleepfoundation.org/feed" htmlUrl="https://www.sleepfoundation.org/"/>
+      <outline type="rss" text="UK Health Security Agency Blog" title="UK Health Security Agency Blog" xmlUrl="https://ukhsa.blog.gov.uk/feed/" htmlUrl="https://ukhsa.blog.gov.uk/"/>
+      <outline type="rss" text="American Heart Association Newsroom" title="American Heart Association Newsroom" xmlUrl="https://newsroom.heart.org/rss.xml" htmlUrl="https://newsroom.heart.org/"/>
+      <outline type="rss" text="Cochrane News" title="Cochrane News" xmlUrl="https://www.cochrane.org/about-us/news/all/rss" htmlUrl="https://www.cochrane.org/about-us/news"/>
+      <outline type="rss" text="NIH News Releases" title="NIH News Releases" xmlUrl="https://www.nih.gov/news-events/news-releases/rss.xml" htmlUrl="https://www.nih.gov/news-events/news-releases"/>
+      <outline type="rss" text="Psychiatric News" title="Psychiatric News" xmlUrl="https://psychiatryonline.org/action/showFeed?jc=pn&amp;type=etoc&amp;feed=rss" htmlUrl="https://psychiatryonline.org/journal/pn"/>
+    </outline>
+    <outline text="科学与数学" title="科学与数学">
+      <outline type="rss" text="CERN News" title="CERN News" xmlUrl="https://home.cern/feed/" htmlUrl="https://home.cern/news"/>
+      <outline type="rss" text="eLife" title="eLife" xmlUrl="https://elifesciences.org/rss/recent.xml" htmlUrl="https://elifesciences.org/"/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature/"/>
+      <outline type="rss" text="Science" title="Science" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/journal/science"/>
+      <outline type="rss" text="3Blue1Brown" title="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
+      <outline type="rss" text="Be Smart" title="Be Smart" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw" htmlUrl="https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw"/>
+      <outline type="rss" text="Crash Course" title="Crash Course" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q" htmlUrl="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q"/>
+      <outline type="rss" text="Deep Look" title="Deep Look" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-3SbfTPJsL8fJAPKiVqBLg" htmlUrl="https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg"/>
+      <outline type="rss" text="Knowable Magazine" title="Knowable Magazine" xmlUrl="https://knowablemagazine.org/rss" htmlUrl="https://knowablemagazine.org/"/>
+      <outline type="rss" text="Kurzgesagt" title="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"/>
+      <outline type="rss" text="minutephysics" title="minutephysics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg" htmlUrl="https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg"/>
+      <outline type="rss" text="Numberphile" title="Numberphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A"/>
+      <outline type="rss" text="Quanta Magazine" title="Quanta Magazine" xmlUrl="https://www.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org/"/>
+      <outline type="rss" text="Smarter Every Day" title="Smarter Every Day" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA"/>
+      <outline type="rss" text="Stand-up Maths" title="Stand-up Maths" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A" htmlUrl="https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A"/>
+      <outline type="rss" text="Undark" title="Undark" xmlUrl="https://undark.org/feed/" htmlUrl="https://undark.org/"/>
+      <outline type="rss" text="Veritasium" title="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+      <outline type="rss" text="dynomight.net" title="dynomight.net" xmlUrl="https://dynomight.net/feed.xml" htmlUrl="https://dynomight.net"/>
+      <outline type="rss" text="minimaxir.com" title="minimaxir.com" xmlUrl="https://minimaxir.com/index.xml" htmlUrl="https://minimaxir.com"/>
+      <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="https://nautil.us/feed" htmlUrl="https://nautil.us/"/>
+      <outline type="rss" text="susam.net" title="susam.net" xmlUrl="https://susam.net/feed.xml" htmlUrl="https://susam.net"/>
+    </outline>
+    <outline text="历史与考古" title="历史与考古">
+      <outline type="rss" text="Library of Congress Blogs" title="Library of Congress Blogs" xmlUrl="https://blogs.loc.gov/feed/" htmlUrl="https://blogs.loc.gov/"/>
+      <outline type="rss" text="Smithsonian Magazine - History" title="Smithsonian Magazine - History" xmlUrl="https://www.smithsonianmag.com/rss/history/" htmlUrl="https://www.smithsonianmag.com/history/"/>
+      <outline type="rss" text="Objectivity" title="Objectivity" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtwKon9qMt5YLVgQt1tvJKg" htmlUrl="https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg"/>
+      <outline type="rss" text="Fall of Civilizations" title="Fall of Civilizations" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6Y5JJPKe_JDMivpKgVXew" htmlUrl="https://www.youtube.com/channel/UCT6Y5JJPKe_JDMivpKgVXew"/>
+      <outline type="rss" text="Historia Civilis" title="Historia Civilis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv_vLHiWVBh_FR9vbeuiY-A" htmlUrl="https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A"/>
+      <outline type="rss" text="History Matters" title="History Matters" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC22BdTgxefuvUivrjesETjg" htmlUrl="https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg"/>
+      <outline type="rss" text="Not Even Past" title="Not Even Past" xmlUrl="https://notevenpast.org/feed/" htmlUrl="https://notevenpast.org/"/>
+      <outline type="rss" text="SAPIENS" title="SAPIENS" xmlUrl="https://www.sapiens.org/feed/" htmlUrl="https://www.sapiens.org/"/>
+      <outline type="rss" text="Taiwan Bar" title="Taiwan Bar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRNsHFT7BFoAPBcuAa5sgEQ" htmlUrl="https://www.youtube.com/channel/UCRNsHFT7BFoAPBcuAa5sgEQ"/>
+      <outline type="rss" text="Told in Stone" title="Told in Stone" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqBiWcuTF8IaLH7wBqnihsQ" htmlUrl="https://www.youtube.com/channel/UCqBiWcuTF8IaLH7wBqnihsQ"/>
+      <outline type="rss" text="Voices of the Past" title="Voices of the Past" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqoGR_EedlhKDVuWNwYWRbg" htmlUrl="https://www.youtube.com/channel/UCqoGR_EedlhKDVuWNwYWRbg"/>
+      <outline type="rss" text="computer.rip" title="computer.rip" xmlUrl="https://computer.rip/rss.xml" htmlUrl="https://computer.rip"/>
+      <outline type="rss" text="devblogs.microsoft.com/oldnewthing" title="devblogs.microsoft.com/oldnewthing" xmlUrl="https://devblogs.microsoft.com/oldnewthing/feed" htmlUrl="https://devblogs.microsoft.com/oldnewthing"/>
+      <outline type="rss" text="experimental-history.com" title="experimental-history.com" xmlUrl="https://www.experimental-history.com/feed" htmlUrl="https://experimental-history.com"/>
+      <outline type="rss" text="filfre.net" title="filfre.net" xmlUrl="https://www.filfre.net/feed/" htmlUrl="https://filfre.net"/>
+      <outline type="rss" text="History Today" title="History Today" xmlUrl="https://www.historytoday.com/feed/rss.xml" htmlUrl="https://www.historytoday.com/"/>
+      <outline type="rss" text="Lapham's Quarterly" title="Lapham's Quarterly" xmlUrl="https://laphamsquarterly.substack.com/feed" htmlUrl="https://www.laphamsquarterly.org/"/>
+      <outline type="rss" text="righto.com" title="righto.com" xmlUrl="https://www.righto.com/feeds/posts/default" htmlUrl="https://righto.com"/>
+      <outline type="rss" text="tedium.co" title="tedium.co" xmlUrl="https://feed.tedium.co/" htmlUrl="https://tedium.co"/>
+      <outline type="rss" text="The Public Domain Review" title="The Public Domain Review" xmlUrl="https://publicdomainreview.org/rss.xml" htmlUrl="https://publicdomainreview.org/"/>
+      <outline type="rss" text="机核 GCORES" title="机核 GCORES" xmlUrl="https://www.gcores.com/rss" htmlUrl="https://www.gcores.com/"/>
+      <outline type="rss" text="Medievalists.net" title="Medievalists.net" xmlUrl="https://www.medievalists.net/feed/" htmlUrl="https://www.medievalists.net/"/>
+    </outline>
+    <outline text="人文与跨学科" title="人文与跨学科">
+      <outline type="rss" text="Internet Archive Blog" title="Internet Archive Blog" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org/"/>
+      <outline type="rss" text="Our World in Data" title="Our World in Data" xmlUrl="https://ourworldindata.org/atom.xml" htmlUrl="https://ourworldindata.org/"/>
+      <outline type="rss" text="JSTOR Daily" title="JSTOR Daily" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org/"/>
+      <outline type="rss" text="Aeon" title="Aeon" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co/"/>
+      <outline type="rss" text="MIT Press Reader" title="MIT Press Reader" xmlUrl="https://thereader.mitpress.mit.edu/feed/" htmlUrl="https://thereader.mitpress.mit.edu/"/>
+      <outline type="rss" text="TED-Ed" title="TED-Ed" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA" htmlUrl="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA"/>
+      <outline type="rss" text="simone.org" title="simone.org" xmlUrl="https://simone.org/rss/" htmlUrl="https://simone.org"/>
+      <outline type="rss" text="Noema" title="Noema" xmlUrl="https://www.noemamag.com/?feed=noemarss" htmlUrl="https://www.noemamag.com/"/>
+      <outline type="rss" text="The Marginalian" title="The Marginalian" xmlUrl="https://www.themarginalian.org/feed/" htmlUrl="https://www.themarginalian.org/"/>
+      <outline type="rss" text="anildash.com" title="anildash.com" xmlUrl="https://www.anildash.com/feed.xml" htmlUrl="https://anildash.com"/>
+      <outline type="rss" text="chadnauseam.com" title="chadnauseam.com" xmlUrl="https://chadnauseam.com/rss.xml" htmlUrl="https://chadnauseam.com"/>
+      <outline type="rss" text="derekthompson.org" title="derekthompson.org" xmlUrl="https://www.theatlantic.com/feed/author/derek-thompson/" htmlUrl="https://derekthompson.org"/>
+      <outline type="rss" text="joanwestenberg.com" title="joanwestenberg.com" xmlUrl="https://www.joanwestenberg.com/feed" htmlUrl="https://joanwestenberg.com"/>
+      <outline type="rss" text="matduggan.com" title="matduggan.com" xmlUrl="https://matduggan.com/rss/" htmlUrl="https://matduggan.com"/>
+      <outline type="rss" text="refactoringenglish.com" title="refactoringenglish.com" xmlUrl="https://refactoringenglish.com/index.xml" htmlUrl="https://refactoringenglish.com"/>
+      <outline type="rss" text="seangoedecke.com" title="seangoedecke.com" xmlUrl="https://www.seangoedecke.com/rss.xml" htmlUrl="https://seangoedecke.com"/>
+      <outline type="rss" text="Emergence Magazine" title="Emergence Magazine" xmlUrl="https://emergencemagazine.org/feed/" htmlUrl="https://emergencemagazine.org/"/>
+      <outline type="rss" text="fern" title="fern" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ" htmlUrl="https://www.youtube.com/channel/UCODHrzPMGbNv67e84WDZhQQ"/>
+    </outline>
+    <outline text="商业、管理与创新" title="商业、管理与创新">
+      <outline type="rss" text="Kellogg Insight" title="Kellogg Insight" xmlUrl="https://insight.kellogg.northwestern.edu/feed/rss" htmlUrl="https://insight.kellogg.northwestern.edu/"/>
+      <outline type="rss" text="Knowledge at Wharton" title="Knowledge at Wharton" xmlUrl="https://knowledge.wharton.upenn.edu/feed/" htmlUrl="https://knowledge.wharton.upenn.edu/"/>
+      <outline type="rss" text="NBER Working Papers" title="NBER Working Papers" xmlUrl="https://back.nber.org/rss/new.xml" htmlUrl="https://www.nber.org/papers"/>
+      <outline type="rss" text="HBR IdeaCast" title="HBR IdeaCast" xmlUrl="https://hbr.org/resources/xml/rss/ideacast.xml" htmlUrl="https://hbr.org/podcast/ideacast"/>
+      <outline type="rss" text="Musings on Markets" title="Musings on Markets" xmlUrl="https://aswathdamodaran.blogspot.com/feeds/posts/default" htmlUrl="https://aswathdamodaran.blogspot.com/"/>
+      <outline type="rss" text="The Generalist" title="The Generalist" xmlUrl="https://www.generalist.com/feed" htmlUrl="https://www.generalist.com/"/>
+      <outline type="rss" text="WorkLife with Molly Graham" title="WorkLife with Molly Graham" xmlUrl="https://feeds.acast.com/public/shows/worklife-with-adam-grant" htmlUrl="https://www.ted.com/podcasts/worklife"/>
+      <outline type="rss" text="Works in Progress" title="Works in Progress" xmlUrl="https://worksinprogress.co/rss.xml" htmlUrl="https://worksinprogress.co/"/>
+      <outline type="rss" text="Y Combinator Blog" title="Y Combinator Blog" xmlUrl="https://www.ycombinator.com/blog/rss" htmlUrl="https://www.ycombinator.com/blog"/>
+      <outline type="rss" text="Benedict Evans" title="Benedict Evans" xmlUrl="https://www.ben-evans.com/benedictevans?format=rss" htmlUrl="https://www.ben-evans.com/benedictevans"/>
+      <outline type="rss" text="construction-physics.com" title="construction-physics.com" xmlUrl="https://www.construction-physics.com/feed" htmlUrl="https://www.construction-physics.com/"/>
+      <outline type="rss" text="entropicthoughts.com" title="entropicthoughts.com" xmlUrl="https://entropicthoughts.com/feed.xml" htmlUrl="https://entropicthoughts.com"/>
+      <outline type="rss" text="evanhahn.com" title="evanhahn.com" xmlUrl="https://evanhahn.com/blog/index.xml" htmlUrl="https://evanhahn.com"/>
+      <outline type="rss" text="nesbitt.io" title="nesbitt.io" xmlUrl="https://nesbitt.io/feed.xml" htmlUrl="https://nesbitt.io"/>
+      <outline type="rss" text="Stratechery" title="Stratechery" xmlUrl="https://stratechery.com/feed/" htmlUrl="https://stratechery.com/"/>
+      <outline type="rss" text="Acquired" title="Acquired" xmlUrl="https://feeds.transistor.fm/acquired" htmlUrl="https://www.acquired.fm/"/>
+      <outline type="rss" text="How I Built This" title="How I Built This" xmlUrl="https://rss.art19.com/how-i-built-this" htmlUrl="https://www.npr.org/series/490248027/how-i-built-this"/>
+      <outline type="rss" text="gilesthomas.com" title="gilesthomas.com" xmlUrl="https://www.gilesthomas.com/feed/rss.xml" htmlUrl="https://gilesthomas.com"/>
+      <outline type="rss" text="keygen.sh" title="keygen.sh" xmlUrl="https://keygen.sh/blog/feed.xml" htmlUrl="https://keygen.sh"/>
+      <outline type="rss" text="paulgraham.com" title="paulgraham.com" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="https://paulgraham.com"/>
+      <outline type="rss" text="steveblank.com" title="steveblank.com" xmlUrl="https://steveblank.com/feed/" htmlUrl="https://steveblank.com"/>
+      <outline type="rss" text="Not Boring" title="Not Boring" xmlUrl="https://www.notboring.co/feed" htmlUrl="https://www.notboring.co/"/>
+      <outline type="rss" text="Marginal Revolution" title="Marginal Revolution" xmlUrl="https://marginalrevolution.com/feed" htmlUrl="https://marginalrevolution.com/"/>
+      <outline type="rss" text="PolyMatter" title="PolyMatter" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgNg3vwj3xt7QOrcIDaHdFg" htmlUrl="https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg"/>
+    </outline>
+    <outline text="社群与发现" title="社群与发现">
+      <outline type="rss" text="3 Quarks Daily" title="3 Quarks Daily" xmlUrl="https://3quarksdaily.com/feed" htmlUrl="https://3quarksdaily.com/"/>
+      <outline type="rss" text="Data Is Plural" title="Data Is Plural" xmlUrl="https://www.data-is-plural.com/feed.xml" htmlUrl="https://www.data-is-plural.com/"/>
+      <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline type="rss" text="Lobsters" title="Lobsters" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
+      <outline type="rss" text="Longreads" title="Longreads" xmlUrl="https://longreads.com/feed/" htmlUrl="https://longreads.com/"/>
+      <outline type="rss" text="MetaFilter" title="MetaFilter" xmlUrl="https://rss.metafilter.com/metafilter.rss" htmlUrl="https://www.metafilter.com/"/>
+      <outline type="rss" text="Kottke.org" title="Kottke.org" xmlUrl="https://feeds.kottke.org/main" htmlUrl="https://kottke.org/"/>
+    </outline>
+    <outline text="数据与可视化" title="数据与可视化">
+      <outline type="rss" text="Storytelling with Data" title="Storytelling with Data" xmlUrl="https://www.storytellingwithdata.com/blog?format=rss" htmlUrl="https://www.storytellingwithdata.com/blog"/>
+      <outline type="rss" text="johndcook.com" title="johndcook.com" xmlUrl="https://www.johndcook.com/blog/feed/" htmlUrl="https://johndcook.com"/>
+      <outline type="rss" text="Branch Education" title="Branch Education" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ" htmlUrl="https://www.youtube.com/channel/UCdp4_l1vPmpN-gDbUwhaRUQ"/>
+      <outline type="rss" text="Datawrapper Blog" title="Datawrapper Blog" xmlUrl="https://www.datawrapper.de/blog/feed.xml" htmlUrl="https://www.datawrapper.de/blog"/>
+      <outline type="rss" text="Nightingale" title="Nightingale" xmlUrl="https://nightingaledvs.com/feed/" htmlUrl="https://nightingaledvs.com/"/>
+      <outline type="rss" text="Observable Blog" title="Observable Blog" xmlUrl="https://observablehq.com/blog/feed.rss" htmlUrl="https://observablehq.com/"/>
+      <outline type="rss" text="The Pudding" title="The Pudding" xmlUrl="https://pudding.cool/rss.xml" htmlUrl="https://pudding.cool/"/>
+      <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="https://flowingdata.com/feed/" htmlUrl="https://flowingdata.com/"/>
+    </outline>
+    <outline text="天文与太空" title="天文与太空">
+      <outline type="rss" text="ESA Space Science" title="ESA Space Science" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Space_Science" htmlUrl="https://www.esa.int/Science_Exploration/Space_Science"/>
+      <outline type="rss" text="NASA JPL" title="NASA JPL" xmlUrl="https://www.jpl.nasa.gov/feeds/news/" htmlUrl="https://www.jpl.nasa.gov/news/"/>
+      <outline type="rss" text="NASA News" title="NASA News" xmlUrl="https://www.nasa.gov/news-release/feed/" htmlUrl="https://www.nasa.gov/news/"/>
+      <outline type="rss" text="Anton Petrov" title="Anton Petrov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ" htmlUrl="https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ"/>
+      <outline type="rss" text="Astrum" title="Astrum" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-9b7aDP6ZN0coj9-xFnrtw" htmlUrl="https://www.youtube.com/channel/UC-9b7aDP6ZN0coj9-xFnrtw"/>
+      <outline type="rss" text="Cool Worlds" title="Cool Worlds" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA" htmlUrl="https://www.youtube.com/channel/UCGHZpIpAWJQ-Jy_CeCdXhMA"/>
+      <outline type="rss" text="Dr Becky" title="Dr Becky" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYNbYGl89UUowy8oXkipC-Q" htmlUrl="https://www.youtube.com/channel/UCYNbYGl89UUowy8oXkipC-Q"/>
+      <outline type="rss" text="PBS Space Time" title="PBS Space Time" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g" htmlUrl="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"/>
+      <outline type="rss" text="Astronomy Picture of the Day" title="Astronomy Picture of the Day" xmlUrl="https://apod.nasa.gov/apod.rss" htmlUrl="https://apod.nasa.gov/apod/astropix.html"/>
+      <outline type="rss" text="arXiv astro-ph" title="arXiv astro-ph" xmlUrl="https://rss.arxiv.org/rss/astro-ph" htmlUrl="https://arxiv.org/archive/astro-ph"/>
+    </outline>
+    <outline text="心理、认知与情商" title="心理、认知与情商">
+      <outline type="rss" text="BMJ Mental Health" title="BMJ Mental Health" xmlUrl="https://mentalhealth.bmj.com/rss/current.xml" htmlUrl="https://mentalhealth.bmj.com/"/>
+      <outline type="rss" text="Campbell Collaboration" title="Campbell Collaboration" xmlUrl="https://www.campbellcollaboration.org/feed/" htmlUrl="https://www.campbellcollaboration.org/"/>
+      <outline type="rss" text="Cochrane Global Mental Health" title="Cochrane Global Mental Health" xmlUrl="https://www.cochrane.org/about-us/news/all/rss" htmlUrl="https://globalmentalhealth.cochrane.org/evidence"/>
+      <outline type="rss" text="Emotion Review" title="Emotion Review" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=emra" htmlUrl="https://journals.sagepub.com/home/emr"/>
+      <outline type="rss" text="Nature Human Behaviour" title="Nature Human Behaviour" xmlUrl="https://www.nature.com/nathumbehav.rss" htmlUrl="https://www.nature.com/nathumbehav/"/>
+      <outline type="rss" text="Nature Reviews Psychology" title="Nature Reviews Psychology" xmlUrl="https://www.nature.com/nrpsychol.rss" htmlUrl="https://www.nature.com/nrpsychol/"/>
+      <outline type="rss" text="Perspectives on Psychological Science" title="Perspectives on Psychological Science" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ppsa" htmlUrl="https://www.psychologicalscience.org/publications/perspectives"/>
+      <outline type="rss" text="Psychological Science" title="Psychological Science" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pssa" htmlUrl="https://www.psychologicalscience.org/publications/psychological_science"/>
+      <outline type="rss" text="Psychological Science in the Public Interest（PSPI）" title="Psychological Science in the Public Interest（PSPI）" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=psia" htmlUrl="https://www.psychologicalscience.org/publications/pspi"/>
+      <outline type="rss" text="Social Psychological and Personality Science" title="Social Psychological and Personality Science" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sppa" htmlUrl="https://journals.sagepub.com/home/spp"/>
+      <outline type="rss" text="Stanford Center for Compassion and Altruism Research and Education（CCARE）" title="Stanford Center for Compassion and Altruism Research and Education（CCARE）" xmlUrl="https://ccare.stanford.edu/feed/" htmlUrl="https://ccare.stanford.edu/"/>
+      <outline type="rss" text="Trends in Cognitive Sciences（TICS）" title="Trends in Cognitive Sciences（TICS）" xmlUrl="https://www.cell.com/trends/cognitive-sciences/rss" htmlUrl="https://www.cell.com/trends/cognitive-sciences/home"/>
+      <outline type="rss" text="CASEL Constellations" title="CASEL Constellations" xmlUrl="https://casel.org/blog/feed/" htmlUrl="https://casel.org/blog/"/>
+      <outline type="rss" text="Center for Open Science Blog" title="Center for Open Science Blog" xmlUrl="https://www.cos.io/blog/rss.xml" htmlUrl="https://www.cos.io/blog"/>
+      <outline type="rss" text="Emotion Researcher（ISRE）" title="Emotion Researcher（ISRE）" xmlUrl="https://emotionresearcher.com/feed/" htmlUrl="https://emotionresearcher.com/"/>
+      <outline type="rss" text="Greater Good Magazine" title="Greater Good Magazine" xmlUrl="https://greatergood.berkeley.edu/site/rss" htmlUrl="https://greatergood.berkeley.edu/"/>
+      <outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://feeds.simplecast.com/kwWc0lhf" htmlUrl="https://www.hiddenbrain.org/"/>
+      <outline type="rss" text="Speaking of Psychology（APA）" title="Speaking of Psychology（APA）" xmlUrl="https://feeds.megaphone.fm/AMERICANPSYCHOLOGICALASSOCIATION9933181801" htmlUrl="https://www.apa.org/news/podcasts/speaking-of-psychology"/>
+      <outline type="rss" text="The Happiness Lab with Dr. Laurie Santos" title="The Happiness Lab with Dr. Laurie Santos" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss" htmlUrl="https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos"/>
+      <outline type="rss" text="The Mental Elf" title="The Mental Elf" xmlUrl="https://www.nationalelfservice.net/mental-health/feed/" htmlUrl="https://www.nationalelfservice.net/mental-health/"/>
+      <outline type="rss" text="The Science of Happiness" title="The Science of Happiness" xmlUrl="https://feeds.feedburner.com/TheScienceOfHappiness" htmlUrl="https://greatergood.berkeley.edu/podcasts"/>
+      <outline type="rss" text="Psyche" title="Psyche" xmlUrl="https://psyche.co/feed.rss" htmlUrl="https://psyche.co/"/>
+      <outline type="rss" text="Association for Psychological Science（APS）" title="Association for Psychological Science（APS）" xmlUrl="https://www.psychologicalscience.org/feed" htmlUrl="https://www.psychologicalscience.org/"/>
+      <outline type="rss" text="Cognitive Science Society" title="Cognitive Science Society" xmlUrl="https://cognitivesciencesociety.org/feed/" htmlUrl="https://cognitivesciencesociety.org/"/>
+      <outline type="rss" text="Frontiers in Psychology" title="Frontiers in Psychology" xmlUrl="https://www.frontiersin.org/journals/psychology/rss" htmlUrl="https://www.frontiersin.org/journals/psychology"/>
+      <outline type="rss" text="Society for Affective Science（SAS）" title="Society for Affective Science（SAS）" xmlUrl="https://society-for-affective-science.org/feed/" htmlUrl="https://society-for-affective-science.org/"/>
+    </outline>
+    <outline text="新闻与调查" title="新闻与调查">
+      <outline type="rss" text="BBC World News" title="BBC World News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news/world"/>
+      <outline type="rss" text="Bellingcat" title="Bellingcat" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/"/>
+      <outline type="rss" text="Rest of World" title="Rest of World" xmlUrl="https://restofworld.org/feed/latest/" htmlUrl="https://restofworld.org/"/>
+      <outline type="rss" text="404 Media" title="404 Media" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+      <outline type="rss" text="The Conversation Global" title="The Conversation Global" xmlUrl="https://theconversation.com/global/articles.atom" htmlUrl="https://theconversation.com/global"/>
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/"/>
+      <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
+      <outline type="rss" text="Vox" title="Vox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA" htmlUrl="https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA"/>
+      <outline type="rss" text="中国数字时代 中文网" title="中国数字时代 中文网" xmlUrl="https://chinadigitaltimes.net/chinese/feed" htmlUrl="https://chinadigitaltimes.net/chinese/"/>
+    </outline>
+    <outline text="艺术、设计与建筑" title="艺术、设计与建筑">
+      <outline type="rss" text="Letterform Archive" title="Letterform Archive" xmlUrl="https://letterformarchive.org/news/feed/" htmlUrl="https://letterformarchive.org/"/>
+      <outline type="rss" text="Louisiana Channel" title="Louisiana Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY2mhw-XNZSxrUynsI5K8Zw" htmlUrl="https://www.youtube.com/channel/UCY2mhw-XNZSxrUynsI5K8Zw"/>
+      <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
+      <outline type="rss" text="aresluna.org" title="aresluna.org" xmlUrl="https://aresluna.org/main.rss" htmlUrl="https://aresluna.org"/>
+      <outline type="rss" text="blog.jim-nielsen.com" title="blog.jim-nielsen.com" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com"/>
+      <outline type="rss" text="danielwirtz.com" title="danielwirtz.com" xmlUrl="https://danielwirtz.com/rss.xml" htmlUrl="https://danielwirtz.com"/>
+      <outline type="rss" text="daringfireball.net" title="daringfireball.net" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net"/>
+      <outline type="rss" text="ericmigi.com" title="ericmigi.com" xmlUrl="https://ericmigi.com/rss.xml" htmlUrl="https://ericmigi.com"/>
+      <outline type="rss" text="Hyperallergic" title="Hyperallergic" xmlUrl="https://hyperallergic.com/rss/" htmlUrl="https://hyperallergic.com/"/>
+      <outline type="rss" text="Design Observer" title="Design Observer" xmlUrl="https://designobserver.com/feed/" htmlUrl="https://designobserver.com/"/>
+      <outline type="rss" text="Colossal" title="Colossal" xmlUrl="https://www.thisiscolossal.com/feed/" htmlUrl="https://www.thisiscolossal.com/"/>
+      <outline type="rss" text="Creative Boom" title="Creative Boom" xmlUrl="https://www.creativeboom.com/feed/" htmlUrl="https://www.creativeboom.com/"/>
+      <outline type="rss" text="Design Milk" title="Design Milk" xmlUrl="https://design-milk.com/feed/" htmlUrl="https://design-milk.com/"/>
+      <outline type="rss" text="Every Frame a Painting" title="Every Frame a Painting" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjFqcJQXGZ6T6sxyFB-5i6A" htmlUrl="https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A"/>
+      <outline type="rss" text="Flux Academy" title="Flux Academy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN7dywl5wDxTu1RM3eJ_h9Q" htmlUrl="https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q"/>
+      <outline type="rss" text="Fonts In Use" title="Fonts In Use" xmlUrl="https://fontsinuse.com/main.rss" htmlUrl="https://fontsinuse.com/"/>
+      <outline type="rss" text="Great Art Explained" title="Great Art Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCePDFpCr78_qmVtpoB1Axaw" htmlUrl="https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw"/>
+      <outline type="rss" text="Nerdwriter1" title="Nerdwriter1" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg" htmlUrl="https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg"/>
+      <outline type="rss" text="Spoon &amp; Tamago" title="Spoon &amp; Tamago" xmlUrl="https://spoon-tamago.com/feed/" htmlUrl="https://www.spoon-tamago.com/"/>
+      <outline type="rss" text="Stewart Hicks" title="Stewart Hicks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYAm24PkejQR2xMgJgn7xwg" htmlUrl="https://www.youtube.com/channel/UCYAm24PkejQR2xMgJgn7xwg"/>
+      <outline type="rss" text="The Art Assignment" title="The Art Assignment" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmQThz1OLYt8mb2PU540LOA" htmlUrl="https://www.youtube.com/channel/UCmQThz1OLYt8mb2PU540LOA"/>
+      <outline type="rss" text="The Futur" title="The Futur" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-b3c7kxa5vU-bnmaROgvog" htmlUrl="https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog"/>
+      <outline type="rss" text="影视飓风 MediaStorm" title="影视飓风 MediaStorm" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa91Shr2Old7rhvdBSPnVBw" htmlUrl="https://www.youtube.com/channel/UCa91Shr2Old7rhvdBSPnVBw"/>
+      <outline type="rss" text="BOOOOOOOM" title="BOOOOOOOM" xmlUrl="https://www.booooooom.com/feed/" htmlUrl="https://www.booooooom.com/"/>
+      <outline type="rss" text="ARTnews - Art News" title="ARTnews - Art News" xmlUrl="https://www.artnews.com/c/art-news/feed/" htmlUrl="https://www.artnews.com/c/art-news/"/>
+      <outline type="rss" text="designboom" title="designboom" xmlUrl="https://www.designboom.com/feed/" htmlUrl="https://www.designboom.com/"/>
+      <outline type="rss" text="Dezeen" title="Dezeen" xmlUrl="https://www.dezeen.com/feed/" htmlUrl="https://www.dezeen.com/"/>
+      <outline type="rss" text="爱范儿" title="爱范儿" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com/"/>
+      <outline type="rss" text="Core77" title="Core77" xmlUrl="https://feeds.feedburner.com/core77/blog" htmlUrl="https://www.core77.com/"/>
+    </outline>
+    <outline text="哲学与思想" title="哲学与思想">
+      <outline type="rss" text="Stanford Encyclopedia of Philosophy" title="Stanford Encyclopedia of Philosophy" xmlUrl="https://plato.stanford.edu/rss/sep.xml" htmlUrl="https://plato.stanford.edu/"/>
+      <outline type="rss" text="Internet Encyclopedia of Philosophy" title="Internet Encyclopedia of Philosophy" xmlUrl="https://iep.utm.edu/feed/" htmlUrl="https://iep.utm.edu/"/>
+      <outline type="rss" text="Philosophy Now" title="Philosophy Now" xmlUrl="https://philosophynow.org/rss" htmlUrl="https://philosophynow.org/"/>
+      <outline type="rss" text="Closer To Truth" title="Closer To Truth" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl9StMQ79LtEvlrskzjoYbQ" htmlUrl="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ"/>
+      <outline type="rss" text="Crooked Timber" title="Crooked Timber" xmlUrl="https://crookedtimber.org/feed/" htmlUrl="https://crookedtimber.org/"/>
+      <outline type="rss" text="LessWrong Curated" title="LessWrong Curated" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss" htmlUrl="https://www.lesswrong.com/curated"/>
+      <outline type="rss" text="Philosophy Tube" title="Philosophy Tube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ" htmlUrl="https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"/>
+      <outline type="rss" text="Then &amp; Now" title="Then &amp; Now" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkS_HP3m9NXOgswVAKbMeJQ" htmlUrl="https://www.youtube.com/channel/UCkS_HP3m9NXOgswVAKbMeJQ"/>
+      <outline type="rss" text="Vsauce" title="Vsauce" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA" htmlUrl="https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA"/>
+      <outline type="rss" text="Astral Codex Ten" title="Astral Codex Ten" xmlUrl="https://www.astralcodexten.com/feed" htmlUrl="https://www.astralcodexten.com/"/>
+      <outline type="rss" text="Daily Nous" title="Daily Nous" xmlUrl="https://dailynous.com/feed/" htmlUrl="https://dailynous.com/"/>
+    </outline>
+    <outline text="AI、科技与工程" title="AI、科技与工程">
+      <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="https://github.blog/engineering/feed/" htmlUrl="https://github.blog/engineering/"/>
+      <outline type="rss" text="Apple Machine Learning Research" title="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com/"/>
+      <outline type="rss" text="Cloudflare Blog" title="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
+      <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/"/>
+      <outline type="rss" text="Google Research Blog" title="Google Research Blog" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/"/>
+      <outline type="rss" text="Hugging Face Blog" title="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
+      <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
+      <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/"/>
+      <outline type="rss" text="ACM Queue" title="ACM Queue" xmlUrl="https://queue.acm.org/rss/feeds/queuecontent.xml" htmlUrl="https://queue.acm.org/"/>
+      <outline type="rss" text="Andrej Karpathy" title="Andrej Karpathy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ" htmlUrl="https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ"/>
+      <outline type="rss" text="Asianometry" title="Asianometry" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1LpsuAUaKoMzzJSEt5WImw" htmlUrl="https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw"/>
+      <outline type="rss" text="Berkeley AI Research Blog" title="Berkeley AI Research Blog" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
+      <outline type="rss" text="Chip Huyen" title="Chip Huyen" xmlUrl="https://huyenchip.com/feed.xml" htmlUrl="https://huyenchip.com/blog/"/>
+      <outline type="rss" text="Computerphile" title="Computerphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
+      <outline type="rss" text="Eugene Yan" title="Eugene Yan" xmlUrl="https://eugeneyan.com/rss/" htmlUrl="https://eugeneyan.com/"/>
+      <outline type="rss" text="Import AI" title="Import AI" xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com/"/>
+      <outline type="rss" text="Jay Alammar" title="Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" htmlUrl="https://jalammar.github.io/"/>
+      <outline type="rss" text="Lilian Weng" title="Lilian Weng" xmlUrl="https://lilianweng.github.io/index.xml" htmlUrl="https://lilianweng.github.io/"/>
+      <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com/"/>
+      <outline type="rss" text="Technology Connections" title="Technology Connections" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q" htmlUrl="https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q"/>
+      <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss/" htmlUrl="https://thegradient.pub/"/>
+      <outline type="rss" text="Two Minute Papers" title="Two Minute Papers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" htmlUrl="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"/>
+      <outline type="rss" text="abortretry.fail" title="abortretry.fail" xmlUrl="https://www.abortretry.fail/feed" htmlUrl="https://abortretry.fail"/>
+      <outline type="rss" text="Ahead of AI" title="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/"/>
+      <outline type="rss" text="antirez.com" title="antirez.com" xmlUrl="https://antirez.com/rss" htmlUrl="http://antirez.com"/>
+      <outline type="rss" text="beej.us" title="beej.us" xmlUrl="https://beej.us/blog/rss.xml" htmlUrl="https://beej.us"/>
+      <outline type="rss" text="bernsteinbear.com" title="bernsteinbear.com" xmlUrl="https://bernsteinbear.com/feed.xml" htmlUrl="https://bernsteinbear.com"/>
+      <outline type="rss" text="berthub.eu" title="berthub.eu" xmlUrl="https://berthub.eu/articles/index.xml" htmlUrl="https://berthub.eu"/>
+      <outline type="rss" text="blog.pixelmelt.dev" title="blog.pixelmelt.dev" xmlUrl="https://blog.pixelmelt.dev/rss/" htmlUrl="https://blog.pixelmelt.dev"/>
+      <outline type="rss" text="bogdanthegeek.github.io" title="bogdanthegeek.github.io" xmlUrl="https://bogdanthegeek.github.io/blog/index.xml" htmlUrl="https://bogdanthegeek.github.io"/>
+      <outline type="rss" text="borretti.me" title="borretti.me" xmlUrl="https://borretti.me/feed.xml" htmlUrl="https://borretti.me"/>
+      <outline type="rss" text="brutecat.com" title="brutecat.com" xmlUrl="https://brutecat.com/rss.xml" htmlUrl="https://brutecat.com"/>
+      <outline type="rss" text="buttondown.com/hillelwayne" title="buttondown.com/hillelwayne" xmlUrl="https://buttondown.com/hillelwayne/rss" htmlUrl="https://buttondown.com/hillelwayne"/>
+      <outline type="rss" text="chiark.greenend.org.uk/~sgtatham" title="chiark.greenend.org.uk/~sgtatham" xmlUrl="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml" htmlUrl="https://chiark.greenend.org.uk/~sgtatham"/>
+      <outline type="rss" text="danielchasehooper.com" title="danielchasehooper.com" xmlUrl="https://danielchasehooper.com/feed.xml" htmlUrl="https://danielchasehooper.com"/>
+      <outline type="rss" text="danieldelaney.net" title="danieldelaney.net" xmlUrl="https://danieldelaney.net/feed" htmlUrl="https://danieldelaney.net"/>
+      <outline type="rss" text="dfarq.homeip.net" title="dfarq.homeip.net" xmlUrl="https://dfarq.homeip.net/feed/" htmlUrl="https://dfarq.homeip.net"/>
+      <outline type="rss" text="downtowndougbrown.com" title="downtowndougbrown.com" xmlUrl="https://www.downtowndougbrown.com/feed/" htmlUrl="https://downtowndougbrown.com"/>
+      <outline type="rss" text="dwarkesh.com" title="dwarkesh.com" xmlUrl="https://www.dwarkesh.com/feed" htmlUrl="https://dwarkesh.com"/>
+      <outline type="rss" text="eli.thegreenplace.net" title="eli.thegreenplace.net" xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="https://eli.thegreenplace.net"/>
+      <outline type="rss" text="fabiensanglard.net" title="fabiensanglard.net" xmlUrl="https://fabiensanglard.net/rss.xml" htmlUrl="https://fabiensanglard.net"/>
+      <outline type="rss" text="garymarcus.substack.com" title="garymarcus.substack.com" xmlUrl="https://garymarcus.substack.com/feed" htmlUrl="https://garymarcus.substack.com"/>
+      <outline type="rss" text="geoffreylitt.com" title="geoffreylitt.com" xmlUrl="https://www.geoffreylitt.com/feed.xml" htmlUrl="https://geoffreylitt.com"/>
+      <outline type="rss" text="geohot.github.io" title="geohot.github.io" xmlUrl="https://geohot.github.io/blog/feed.xml" htmlUrl="https://geohot.github.io"/>
+      <outline type="rss" text="grantslatton.com" title="grantslatton.com" xmlUrl="https://grantslatton.com/rss.xml" htmlUrl="https://grantslatton.com"/>
+      <outline type="rss" text="gwern.net" title="gwern.net" xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.net"/>
+      <outline type="rss" text="herman.bearblog.dev" title="herman.bearblog.dev" xmlUrl="https://herman.bearblog.dev/feed/" htmlUrl="https://herman.bearblog.dev"/>
+      <outline type="rss" text="hey.paris" title="hey.paris" xmlUrl="https://hey.paris/index.xml" htmlUrl="https://hey.paris"/>
+      <outline type="rss" text="hugotunius.se" title="hugotunius.se" xmlUrl="https://hugotunius.se/feed.xml" htmlUrl="https://hugotunius.se"/>
+      <outline type="rss" text="idiallo.com" title="idiallo.com" xmlUrl="https://idiallo.com/feed.rss" htmlUrl="https://idiallo.com"/>
+      <outline type="rss" text="IEEE Spectrum" title="IEEE Spectrum" xmlUrl="https://spectrum.ieee.org/feeds/feed.rss" htmlUrl="https://spectrum.ieee.org/"/>
+      <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai/"/>
+      <outline type="rss" text="it-notes.dragas.net" title="it-notes.dragas.net" xmlUrl="https://it-notes.dragas.net/feed/" htmlUrl="https://it-notes.dragas.net"/>
+      <outline type="rss" text="jayd.ml" title="jayd.ml" xmlUrl="https://jayd.ml/feed.xml" htmlUrl="https://jayd.ml"/>
+      <outline type="rss" text="jeffgeerling.com" title="jeffgeerling.com" xmlUrl="https://www.jeffgeerling.com/blog.xml" htmlUrl="https://jeffgeerling.com"/>
+      <outline type="rss" text="jyn.dev" title="jyn.dev" xmlUrl="https://jyn.dev/atom.xml" htmlUrl="https://jyn.dev"/>
+      <outline type="rss" text="krebsonsecurity.com" title="krebsonsecurity.com" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+      <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space/"/>
+      <outline type="rss" text="lcamtuf.substack.com" title="lcamtuf.substack.com" xmlUrl="https://lcamtuf.substack.com/feed" htmlUrl="https://lcamtuf.substack.com"/>
+      <outline type="rss" text="lucumr.pocoo.org" title="lucumr.pocoo.org" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl="https://lucumr.pocoo.org"/>
+      <outline type="rss" text="martinalderson.com" title="martinalderson.com" xmlUrl="https://martinalderson.com/feed.xml" htmlUrl="https://martinalderson.com"/>
+      <outline type="rss" text="matklad.github.io" title="matklad.github.io" xmlUrl="https://matklad.github.io/feed.xml" htmlUrl="https://matklad.github.io"/>
+      <outline type="rss" text="maurycyz.com" title="maurycyz.com" xmlUrl="https://maurycyz.com/index.xml" htmlUrl="https://maurycyz.com"/>
+      <outline type="rss" text="micahflee.com" title="micahflee.com" xmlUrl="https://micahflee.com/rss/" htmlUrl="https://micahflee.com"/>
+      <outline type="rss" text="michael.stapelberg.ch" title="michael.stapelberg.ch" xmlUrl="https://michael.stapelberg.ch/feed.xml" htmlUrl="https://michael.stapelberg.ch"/>
+      <outline type="rss" text="miguelgrinberg.com" title="miguelgrinberg.com" xmlUrl="https://blog.miguelgrinberg.com/feed" htmlUrl="https://miguelgrinberg.com"/>
+      <outline type="rss" text="mitchellh.com" title="mitchellh.com" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com"/>
+      <outline type="rss" text="mjg59.dreamwidth.org" title="mjg59.dreamwidth.org" xmlUrl="https://mjg59.dreamwidth.org/data/rss" htmlUrl="https://mjg59.dreamwidth.org"/>
+      <outline type="rss" text="oldvcr.blogspot.com" title="oldvcr.blogspot.com" xmlUrl="https://oldvcr.blogspot.com/feeds/posts/default" htmlUrl="https://oldvcr.blogspot.com"/>
+      <outline type="rss" text="overreacted.io" title="overreacted.io" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io"/>
+      <outline type="rss" text="philiplaine.com" title="philiplaine.com" xmlUrl="https://philiplaine.com/index.xml" htmlUrl="https://philiplaine.com"/>
+      <outline type="rss" text="pluralistic.net" title="pluralistic.net" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net"/>
+      <outline type="rss" text="rachelbythebay.com" title="rachelbythebay.com" xmlUrl="https://rachelbythebay.com/w/atom.xml" htmlUrl="https://rachelbythebay.com"/>
+      <outline type="rss" text="rakhim.exotext.com" title="rakhim.exotext.com" xmlUrl="https://rakhim.exotext.com/rss.xml" htmlUrl="https://rakhim.exotext.com"/>
+      <outline type="rss" text="shkspr.mobi" title="shkspr.mobi" xmlUrl="https://shkspr.mobi/blog/feed/" htmlUrl="https://shkspr.mobi"/>
+      <outline type="rss" text="simonwillison.net" title="simonwillison.net" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+      <outline type="rss" text="skyfall.dev" title="skyfall.dev" xmlUrl="https://mahadk.com/rss.xml" htmlUrl="https://skyfall.dev"/>
+      <outline type="rss" text="tedunangst.com" title="tedunangst.com" xmlUrl="https://www.tedunangst.com/flak/rss" htmlUrl="https://tedunangst.com"/>
+      <outline type="rss" text="terriblesoftware.org" title="terriblesoftware.org" xmlUrl="https://terriblesoftware.org/feed/" htmlUrl="https://terriblesoftware.org"/>
+      <outline type="rss" text="timsh.org" title="timsh.org" xmlUrl="https://timsh.org/rss/" htmlUrl="https://timsh.org"/>
+      <outline type="rss" text="tomrenner.com" title="tomrenner.com" xmlUrl="https://tomrenner.com/index.xml" htmlUrl="https://tomrenner.com"/>
+      <outline type="rss" text="troyhunt.com" title="troyhunt.com" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://troyhunt.com"/>
+      <outline type="rss" text="utcc.utoronto.ca/~cks" title="utcc.utoronto.ca/~cks" xmlUrl="https://utcc.utoronto.ca/~cks/space/blog/?atom" htmlUrl="https://utcc.utoronto.ca/~cks"/>
+      <outline type="rss" text="wheresyoured.at" title="wheresyoured.at" xmlUrl="https://www.wheresyoured.at/rss/" htmlUrl="https://wheresyoured.at"/>
+      <outline type="rss" text="worksonmymachine.substack.com" title="worksonmymachine.substack.com" xmlUrl="https://worksonmymachine.ai/feed" htmlUrl="https://worksonmymachine.substack.com"/>
+      <outline type="rss" text="xania.org" title="xania.org" xmlUrl="https://xania.org/feed" htmlUrl="https://xania.org"/>
+      <outline type="rss" text="xeiaso.net" title="xeiaso.net" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net"/>
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/"/>
+      <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://arxiv.org/list/cs.AI/recent"/>
+      <outline type="rss" text="ColdFusion" title="ColdFusion" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A" htmlUrl="https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A"/>
+      <outline type="rss" text="Fireship" title="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"/>
+      <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" htmlUrl="https://www.infoq.com/"/>
+      <outline type="rss" text="Solidot" title="Solidot" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org/"/>
+      <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="https://www.ruanyifeng.com/blog/"/>
+    </outline>
+  </body>
+</opml>
