@@ -7,6 +7,16 @@
 1. `manifest.json`：文件说明、数量和分类。
 2. `source_catalog.json`：机器可读主库，包含 494 个去重信源及评分、引用角色、Feed 状态、用途和核验提醒。
 3. `human_guide_zh.md`：完整使用纪律和人工工作流。
+4. `visual_frontier_projects/START_HERE.md`：需要论文项目视频、交互 Demo、个人作品集或强视觉案例时读取。
+5. `visual_frontier_projects/courses/START_HERE.md`：需要名校、机构、个人课程，或需要从课程策展者继续扩库时读取。
+
+## 强视觉任务
+
+处理前沿论文演示、视觉解释、作品集案例、交互网页、动态图形或生成艺术时，优先读取 `visual_frontier_projects/visual_sources.json`。其中 `visual_score` 表示视觉素材密度，`evidence_score` 表示作为事实依据的强度；两者不能互相替代。具体转载、截图、嵌入或二次创作仍须检查项目页的权利声明。
+
+## 课程与持续扩库任务
+
+需要课程、公开视频、讲义、代码、作业或项目 Demo 时，读取 `visual_frontier_projects/courses/course_sources.json`。其中 `visual_strength`、`project_strength` 和 `evidence_strength` 分别衡量视觉密度、动手实践与作为事实/技术依据的适用度。需要新的课程线索时再读 `RESOURCE_CURATORS.md`；策展目录、榜单和社区路线只用于发现，必须回到具体课程原页核对开放状态、费用、日期、讲师和许可。
 
 ## 选择来源的顺序
 
@@ -52,4 +62,3 @@
 6. 具体原文链接，而不是本目录或 Feed 链接。
 
 如果任务涉及“最新、今日、目前、热门、价格、政策或研究进展”，必须联网重新核验，不能只依赖本包快照。
-

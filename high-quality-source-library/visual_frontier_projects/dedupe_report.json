@@ -1,0 +1,129 @@
+{
+  "stats": {
+    "snapshot_date": "2026-08-18",
+    "raw_count": 154,
+    "final_count": 136,
+    "skipped_count": 18,
+    "with_feed": 61,
+    "by_group": {
+      "前沿论文与项目视频": 51,
+      "个人项目作品集": 40,
+      "视觉发现平台": 45
+    },
+    "by_priority": {
+      "S": 54,
+      "A": 73,
+      "B": 9
+    }
+  },
+  "skipped": [
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Apple Machine Learning Research + Developer Videos",
+      "homepage": "https://machinelearning.apple.com/",
+      "matched_name": "Apple Machine Learning Research"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "The Pudding",
+      "homepage": "https://pudding.cool/",
+      "matched_name": "The Pudding"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "FlowingData",
+      "homepage": "https://flowingdata.com/",
+      "matched_name": "FlowingData"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Nightingale",
+      "homepage": "https://nightingaledvs.com/",
+      "matched_name": "Nightingale"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Observable",
+      "homepage": "https://observablehq.com/",
+      "matched_name": "Observable Blog"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Creative Boom Inspiration",
+      "homepage": "https://www.creativeboom.com/",
+      "matched_name": "Creative Boom"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Colossal Design",
+      "homepage": "https://www.thisiscolossal.com/",
+      "matched_name": "Colossal"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Dezeen Architecture",
+      "homepage": "https://www.dezeen.com/",
+      "matched_name": "Dezeen"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Core77 Design Awards",
+      "homepage": "https://www.core77.com/",
+      "matched_name": "Core77"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "The Pudding",
+      "homepage": "https://pudding.cool/",
+      "matched_name": "The Pudding"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Reuters Graphics",
+      "homepage": "https://www.reuters.com/graphics/",
+      "matched_name": "Reuters Graphics"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Information is Beautiful Awards Showcase",
+      "homepage": "https://www.informationisbeautifulawards.com/",
+      "matched_name": "Information is Beautiful Awards"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Observable",
+      "homepage": "https://observablehq.com/",
+      "matched_name": "Observable Blog"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Datawrapper Blog",
+      "homepage": "https://www.datawrapper.de/blog/",
+      "matched_name": "Datawrapper Blog"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Quanta Magazine",
+      "homepage": "https://www.quantamagazine.org/",
+      "matched_name": "Quanta Magazine"
+    },
+    {
+      "reason": "duplicate_in_visual_addon",
+      "name": "ArchDaily Projects",
+      "homepage": "https://www.archdaily.com/",
+      "matched_name": "ArchDaily Projects"
+    },
+    {
+      "reason": "already_in_main_catalog",
+      "name": "Dezeen Architecture",
+      "homepage": "https://www.dezeen.com/",
+      "matched_name": "Dezeen"
+    },
+    {
+      "reason": "duplicate_in_visual_addon",
+      "name": "Motionographer",
+      "homepage": "https://motionographer.com/",
+      "matched_name": "Motionographer"
+    }
+  ]
+}

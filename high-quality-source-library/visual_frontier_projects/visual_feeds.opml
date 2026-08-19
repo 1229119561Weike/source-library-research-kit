@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>视觉前沿论文、项目视频与作品集</title>
+  </head>
+  <body>
+    <outline text="前沿论文与项目视频" title="前沿论文与项目视频">
+      <outline type="rss" text="ACM SIGGRAPH Video Channel" title="ACM SIGGRAPH Video Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbaxUExGKrH2zxY4AkY9wCg" htmlUrl="https://www.siggraph.org/"/>
+      <outline type="rss" text="Agility Robotics Digit Demos" title="Agility Robotics Digit Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN-StetwWuVYf-MU2_NVj4A" htmlUrl="https://www.agilityrobotics.com/"/>
+      <outline type="rss" text="ANYbotics Autonomous Inspection Demos" title="ANYbotics Autonomous Inspection Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1B-ML60I2hKTvygvMjubnw" htmlUrl="https://www.anybotics.com/"/>
+      <outline type="rss" text="Boston Dynamics Robot Videos" title="Boston Dynamics Robot Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ" htmlUrl="https://bostondynamics.com/"/>
+      <outline type="rss" text="CHI 2025 Video Showcase" title="CHI 2025 Video Showcase" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEfEi-IMiB87UsxY3765P6w" htmlUrl="https://chi2025.acm.org/"/>
+      <outline type="rss" text="CMU Robotics Institute Videos" title="CMU Robotics Institute Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW2eNKQeNIvl6MgFNKwLgBQ" htmlUrl="https://www.ri.cmu.edu/"/>
+      <outline type="rss" text="Conference on Robot Learning Videos" title="Conference on Robot Learning Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXnxdtIKJVUN0I-gKo2Chmg" htmlUrl="https://www.corl.org/"/>
+      <outline type="rss" text="CVPR 2026 Events with Videos" title="CVPR 2026 Events with Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0n76gicaarsN_Y9YShWwhw" htmlUrl="https://cvpr.thecvf.com/Conferences/2026"/>
+      <outline type="rss" text="Disney Research Video Demos" title="Disney Research Video Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM42XWqRoruK6bNkgbgoJMw" htmlUrl="https://www.disneyresearch.com/"/>
+      <outline type="rss" text="EPFL Research Videos" title="EPFL Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClMJeVIVyGp-3_kWtspkS0Q" htmlUrl="https://www.epfl.ch/research/"/>
+      <outline type="rss" text="ETH Robotics Systems Lab Videos" title="ETH Robotics Systems Lab Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0DjPjGFo90fORDJzyp_llQ" htmlUrl="https://rsl.ethz.ch/"/>
+      <outline type="rss" text="Google DeepMind Research Videos" title="Google DeepMind Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" htmlUrl="https://deepmind.google/"/>
+      <outline type="rss" text="Google Research Video Channel" title="Google Research Video Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT-VzthVAM_4ohDdKa-BbXA" htmlUrl="https://research.google/"/>
+      <outline type="rss" text="ICML Official Video Channel" title="ICML Official Video Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_JtgG9jWCnd9fU5upXboGQ" htmlUrl="https://icml.cc/"/>
+      <outline type="rss" text="IEEE ICRA 2026 Program and RAS Videos" title="IEEE ICRA 2026 Program and RAS Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvmXaE8AFihVzN9rN5de0Dw" htmlUrl="https://2026.ieee-icra.org/"/>
+      <outline type="rss" text="Intrinsic Industrial Robotics Videos" title="Intrinsic Industrial Robotics Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUlPkx9jKY-v9pCmr-DWtKQ" htmlUrl="https://www.intrinsic.ai/"/>
+      <outline type="rss" text="IROS 2025 Video and Live Stream Hub" title="IROS 2025 Video and Live Stream Hub" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvmXaE8AFihVzN9rN5de0Dw" htmlUrl="https://www.iros25.org/"/>
+      <outline type="rss" text="Max Planck Intelligent Systems Videos" title="Max Planck Intelligent Systems Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCty-pPOWlWUk4gXNm5pydcg" htmlUrl="https://is.mpg.de/"/>
+      <outline type="rss" text="Meta AI Research Videos" title="Meta AI Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg" htmlUrl="https://ai.meta.com/"/>
+      <outline type="rss" text="Microsoft Research Videos" title="Microsoft Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCb9_Kn8F_Opb3UCGm-lILQ" htmlUrl="https://www.microsoft.com/en-us/research/"/>
+      <outline type="rss" text="MIT CSAIL Research Videos" title="MIT CSAIL Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBpxspUNl1Th33XbugiHJzw" htmlUrl="https://www.csail.mit.edu/"/>
+      <outline type="rss" text="MIT Media Lab Project Videos" title="MIT Media Lab Project Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEPhh0AIOV9GjPkE1JNjH8w" htmlUrl="https://www.media.mit.edu/"/>
+      <outline type="rss" text="NASA JPL Robotics Videos" title="NASA JPL Robotics Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCryGec9PdUCLjpJW2mgCuLw" htmlUrl="https://www-robotics.jpl.nasa.gov/"/>
+      <outline type="rss" text="NVIDIA Developer Technical Videos" title="NVIDIA Developer Technical Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBHcMCGaiJhv-ESTcWGJPcw" htmlUrl="https://developer.nvidia.com/"/>
+      <outline type="rss" text="NVIDIA Research Visual Demos" title="NVIDIA Research Visual Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g" htmlUrl="https://research.nvidia.com/"/>
+      <outline type="rss" text="OpenAI Research Video Channel" title="OpenAI Research Video Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" htmlUrl="https://openai.com/research/"/>
+      <outline type="rss" text="Physical Intelligence Robot Demos" title="Physical Intelligence Robot Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7S_imQ6iv9j5oVf2oJvvFg" htmlUrl="https://www.physicalintelligence.company/"/>
+      <outline type="rss" text="Sanctuary AI Humanoid Demos" title="Sanctuary AI Humanoid Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_d_dGoi2ztmAgiDwRh3uJw" htmlUrl="https://www.sanctuary.ai/"/>
+      <outline type="rss" text="SIGGRAPH Asia Visual Research Programs" title="SIGGRAPH Asia Visual Research Programs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbaxUExGKrH2zxY4AkY9wCg" htmlUrl="https://asia.siggraph.org/2025/"/>
+      <outline type="rss" text="Skild AI Robot Foundation Model Demos" title="Skild AI Robot Foundation Model Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQPoxR_17d1lv7_MKPTY97w" htmlUrl="https://www.skild.ai/"/>
+      <outline type="rss" text="Stanford HAI Videos" title="Stanford HAI Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChugFTK0KyrES9terTid8vA" htmlUrl="https://hai.stanford.edu/"/>
+      <outline type="rss" text="Stanford ILIAD Robot Interaction Demos" title="Stanford ILIAD Robot Interaction Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwzVyiOz3jUeRTjc4X7pDxA" htmlUrl="https://iliad.stanford.edu/"/>
+      <outline type="rss" text="Toyota Research Institute Videos" title="Toyota Research Institute Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrwv6xSZGc05necevuufEog" htmlUrl="https://www.tri.global/"/>
+      <outline type="rss" text="UbiComp / ISWC Video Archive" title="UbiComp / ISWC Video Archive" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCToGTF8_ypno2LME0G2XJ-w" htmlUrl="https://www.ubicomp.org/"/>
+      <outline type="rss" text="UCLIC HCI Videos" title="UCLIC HCI Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXUG2bo-byNgk47QMJ7Evag" htmlUrl="https://uclic.ucl.ac.uk/"/>
+      <outline type="rss" text="UIST 2025 Video Previews" title="UIST 2025 Video Previews" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEfEi-IMiB87UsxY3765P6w" htmlUrl="https://uist.acm.org/2025/"/>
+      <outline type="rss" text="Unitree Robotics Official Demos" title="Unitree Robotics Official Demos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsMbp4V8oxzHCMdOUP-3oWw" htmlUrl="https://www.unitree.com/"/>
+      <outline type="rss" text="USC ICT Research Videos" title="USC ICT Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmH6FwL9VdQaPe1Lew_MCPw" htmlUrl="https://ict.usc.edu/"/>
+      <outline type="rss" text="UW Allen School Research Videos" title="UW Allen School Research Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfSiYryINctnCaKe-jilVeA" htmlUrl="https://www.cs.washington.edu/research/"/>
+      <outline type="rss" text="Vector Institute Research Talks" title="Vector Institute Research Talks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmvljkstTAiVkGFGWbBg9sA" htmlUrl="https://vectorinstitute.ai/"/>
+      <outline type="rss" text="Waymo Research and Autonomous Driving Videos" title="Waymo Research and Autonomous Driving Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh5Yo6HN5b2Hco70HosIzZA" htmlUrl="https://waymo.com/research/"/>
+    </outline>
+    <outline text="个人项目作品集" title="个人项目作品集">
+      <outline type="rss" text="LIA" title="LIA" xmlUrl="https://www.liaworks.com/feed/" htmlUrl="https://www.liaworks.com/"/>
+      <outline type="rss" text="Matt DesLauriers" title="Matt DesLauriers" xmlUrl="https://mattdesl.substack.com/feed" htmlUrl="https://www.mattdesl.com/"/>
+      <outline type="rss" text="nendo Works" title="nendo Works" xmlUrl="https://www.nendo.jp/en/feed/" htmlUrl="https://www.nendo.jp/en/"/>
+      <outline type="rss" text="Raven Kwok" title="Raven Kwok" xmlUrl="https://ravenkwok.com/feed/" htmlUrl="https://ravenkwok.com/"/>
+      <outline type="rss" text="Stefanie Posavec Portfolio" title="Stefanie Posavec Portfolio" xmlUrl="https://www.stefanieposavec.com/projects?format=rss" htmlUrl="https://www.stefanieposavec.com/"/>
+      <outline type="rss" text="Truth &amp; Beauty" title="Truth &amp; Beauty" xmlUrl="https://truth-and-beauty.net/feed" htmlUrl="https://truth-and-beauty.net/"/>
+      <outline type="rss" text="Visual Cinnamon" title="Visual Cinnamon" xmlUrl="https://www.visualcinnamon.com/index.xml" htmlUrl="https://www.visualcinnamon.com/"/>
+    </outline>
+    <outline text="视觉发现平台" title="视觉发现平台">
+      <outline type="rss" text="ArchDaily Projects" title="ArchDaily Projects" xmlUrl="http://feeds.feedburner.com/Archdaily" htmlUrl="https://www.archdaily.com/"/>
+      <outline type="rss" text="Ars Electronica Archive" title="Ars Electronica Archive" xmlUrl="https://ars.electronica.art/aeblog/en/feed/" htmlUrl="https://ars.electronica.art/news/en/"/>
+      <outline type="rss" text="Art of the Title" title="Art of the Title" xmlUrl="https://www.artofthetitle.com/rss/" htmlUrl="https://www.artofthetitle.com/"/>
+      <outline type="rss" text="Codrops" title="Codrops" xmlUrl="https://tympanus.net/codrops/feed/" htmlUrl="https://tympanus.net/codrops/"/>
+      <outline type="rss" text="Motionographer" title="Motionographer" xmlUrl="https://motionographer.com/feed/" htmlUrl="https://motionographer.com/"/>
+      <outline type="rss" text="NASA Image of the Day" title="NASA Image of the Day" xmlUrl="https://www.nasa.gov/feeds/iotd-feed/" htmlUrl="https://www.nasa.gov/image-of-the-day/"/>
+      <outline type="rss" text="Nature Video" title="Nature Video" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7c8mE90qCtu11z47U0KErg" htmlUrl="https://www.youtube.com/@NatureVideoChannel"/>
+      <outline type="rss" text="NOWNESS" title="NOWNESS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpYHEAhSUx1hBn2SkvXvTrg" htmlUrl="https://www.nowness.com/"/>
+      <outline type="rss" text="SIGGRAPH Digital Art Archive" title="SIGGRAPH Digital Art Archive" xmlUrl="https://blog.siggraph.org/feed/" htmlUrl="https://history.siggraph.org/"/>
+      <outline type="rss" text="The Guardian Interactive" title="The Guardian Interactive" xmlUrl="https://www.theguardian.com/interactive/rss" htmlUrl="https://www.theguardian.com/interactive"/>
+      <outline type="rss" text="Vimeo Staff Picks" title="Vimeo Staff Picks" xmlUrl="https://vimeo.com/channels/staffpicks/videos/rss" htmlUrl="https://vimeo.com/channels/staffpicks"/>
+      <outline type="rss" text="We Make Money Not Art" title="We Make Money Not Art" xmlUrl="https://we-make-money-not-art.com/feed/" htmlUrl="https://we-make-money-not-art.com/"/>
+    </outline>
+  </body>
+</opml>

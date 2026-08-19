@@ -3,6 +3,15 @@
   "snapshot_date": "2026-08-17",
   "language": "zh-CN",
   "total_sources": 494,
+  "total_unique_sources_with_visual_addon": 630,
+  "total_indexed_items_including_visual_and_courses": 797,
+  "visual_addon_snapshot_date": "2026-08-18",
+  "visual_addon_sources": 136,
+  "visual_addon_verified_feeds": 60,
+  "course_addon_snapshot_date": "2026-08-19",
+  "course_resources": 167,
+  "course_resource_curators": 40,
+  "course_verified_unique_feeds": 11,
   "feed_or_api_entries": 412,
   "opml_importable_entries": 342,
   "feeds_verified_valid_or_redirected": 328,
@@ -39,7 +48,9 @@
     "opml/core_feeds.opml": "高优先级核心 Feed",
     "opml/mind_health_growth_business.opml": "心理、健康、成长、认知、商业与情商专题 Feed",
     "opml/youtube_channels.opml": "YouTube 频道 Feed",
-    "opml/karpathy_hn2025_original.opml": "Karpathy 分享的原始 HN 2025 RSS 集"
+    "opml/karpathy_hn2025_original.opml": "Karpathy 分享的原始 HN 2025 RSS 集",
+    "visual_frontier_projects/": "前沿论文项目视频、个人作品集与视觉发现平台扩展目录",
+    "visual_frontier_projects/courses/": "名校、机构、个人优质课程，以及持续搜集课程的策展型信源"
   },
   "citation_roles": ["证据源", "解释源", "观点源", "线索源", "灵感源"],
   "warning": "This package is a discovery and research index. Always verify specific claims against the current original source before publication."

@@ -21,6 +21,13 @@ Read these workspace-root files before substantive use:
 
 Use `source_library.xlsx` for human browsing and the OPML files for subscription workflows. Prefer `source_catalog.json` for machine filtering.
 
+Two add-on layers sit beside the main catalog. Read them only when the task needs them:
+
+- `high-quality-source-library/visual_frontier_projects/visual_sources.json` (136 entries, snapshot 2026-08-18) for paper demo videos, interactive demos, personal portfolios, and visual-discovery platforms. `visual_score` measures visual density; `evidence_score` measures strength as factual proof. They are independent — a high `visual_score` never substitutes for evidence.
+- `high-quality-source-library/visual_frontier_projects/courses/course_sources.json` (167 entries, snapshot 2026-08-19) for university, institutional, and individual courses. `visual_strength`, `project_strength`, and `evidence_strength` are three independent axes. 40 entries are marked `is_resource_curator` — those are discovery directories, not courses; follow their links to a specific course page. Read `courses/LEARNING_PATHS.md` for sequenced paths and `courses/RESOURCE_CURATORS.md` only when hunting new course leads.
+
+Course and visual entries carry the same verification duty as the main catalog: confirm open status, cost, dates, instructor, and licence at the current course or project page before publishing anything about them. Only 11 unique valid feeds exist across the course layer; the remaining entries are platform entrances, not subscribable feeds.
+
 ## Source responsibility
 
 Assign each selected source one role. Do not let a weaker role silently carry a stronger claim.

@@ -1,0 +1,176 @@
+{
+  "stats": {
+    "snapshot_date": "2026-08-19",
+    "raw_count": 184,
+    "final_count": 167,
+    "skipped_count": 17,
+    "resource_curators": 40,
+    "with_feed": 12,
+    "unique_feed_urls": 11,
+    "by_provider_type": {
+      "名校": 58,
+      "机构": 56,
+      "个人": 53
+    },
+    "by_priority": {
+      "S": 140,
+      "A": 15,
+      "B": 12
+    }
+  },
+  "skipped": [
+    {
+      "reason": "duplicate_course",
+      "title": "MIT 6.S191: Introduction to Deep Learning",
+      "provider": "MIT",
+      "course_url": "https://introtodeeplearning.com/",
+      "matched_title": "MIT 6.S191：Introduction to Deep Learning",
+      "matched_provider": "Massachusetts Institute of Technology",
+      "matched_course_url": "https://introtodeeplearning.com/"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "CS50’s Introduction to Artificial Intelligence with Python",
+      "provider": "Harvard University / CS50",
+      "course_url": "https://cs50.harvard.edu/ai/",
+      "matched_title": "Harvard CS50’s Introduction to Artificial Intelligence with Python",
+      "matched_provider": "Harvard University",
+      "matched_course_url": "https://cs50.harvard.edu/ai/"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "MIT 6.831: User Interface Design and Implementation",
+      "provider": "MIT OpenCourseWare",
+      "course_url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/",
+      "matched_title": "MIT 6.831：User Interface Design and Implementation",
+      "matched_provider": "Massachusetts Institute of Technology",
+      "matched_course_url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Open Yale Courses",
+      "provider": "Yale University",
+      "course_url": "https://oyc.yale.edu/courses",
+      "matched_title": "Open Yale Courses：官方课程目录",
+      "matched_provider": "Yale University",
+      "matched_course_url": "https://oyc.yale.edu/courses"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Practical Deep Learning for Coders",
+      "provider": "Jeremy Howard / fast.ai",
+      "course_url": "https://course.fast.ai/",
+      "matched_title": "Practical Deep Learning for Coders",
+      "matched_provider": "fast.ai",
+      "matched_course_url": "https://course.fast.ai/"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Deep Learning Foundations to Stable Diffusion",
+      "provider": "Jeremy Howard / fast.ai",
+      "course_url": "https://course.fast.ai/Lessons/part2.html",
+      "matched_title": "From Deep Learning Foundations to Stable Diffusion",
+      "matched_provider": "fast.ai",
+      "matched_course_url": "https://course.fast.ai/Lessons/part2.html"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Code! Programming with p5.js",
+      "provider": "Daniel Shiffman / The Coding Train",
+      "course_url": "https://thecodingtrain.com/tracks/code-programming-with-p5-js",
+      "matched_title": "Code! Programming with p5.js",
+      "matched_provider": "The Coding Train",
+      "matched_course_url": "https://thecodingtrain.com/tracks/code-programming-with-p5-js/"
+    },
+    {
+      "reason": "duplicate_resource_curator",
+      "title": "Class Central 课程目录与 The Report",
+      "provider": "Class Central",
+      "course_url": "https://www.classcentral.com/subjects",
+      "matched_title": "Class Central Course Discovery and Reviews",
+      "matched_provider": "Class Central",
+      "matched_course_url": "https://www.classcentral.com/"
+    },
+    {
+      "reason": "duplicate_resource_curator",
+      "title": "Open Culture：名校免费课程总目录",
+      "provider": "Open Culture",
+      "course_url": "https://www.openculture.com/freeonlinecourses",
+      "matched_title": "Open Culture Free Online Courses",
+      "matched_provider": "Open Culture",
+      "matched_course_url": "https://www.openculture.com/freeonlinecourses"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "OER Commons 开放教育资源库",
+      "provider": "ISKME / OER Commons",
+      "course_url": "https://oercommons.org/oer",
+      "matched_title": "OER Commons",
+      "matched_provider": "Institute for the Study of Knowledge Management in Education",
+      "matched_course_url": "https://oercommons.org/oer"
+    },
+    {
+      "reason": "duplicate_resource_curator",
+      "title": "Kadenze 创意艺术与技术课程目录",
+      "provider": "Kadenze",
+      "course_url": "https://www.kadenze.com/courses",
+      "matched_title": "Kadenze Creative Technology Course Catalog",
+      "matched_provider": "Kadenze",
+      "matched_course_url": "https://www.kadenze.com/courses"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "OSSU Computer Science 自学本科路线",
+      "provider": "Open Source Society University",
+      "course_url": "https://github.com/ossu/computer-science",
+      "matched_title": "OSSU Computer Science",
+      "matched_provider": "Eric Douglas、Josh Hanson等 OSSU 维护者",
+      "matched_course_url": "https://github.com/ossu/computer-science"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Teach Yourself Computer Science",
+      "provider": "Teach Yourself CS",
+      "course_url": "https://teachyourselfcs.com/",
+      "matched_title": "Teach Yourself Computer Science",
+      "matched_provider": "Oz Nova 与 Myles Byrne",
+      "matched_course_url": "https://teachyourselfcs.com/"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Computer Science Courses with Video Lectures",
+      "provider": "Developer-Y 社区",
+      "course_url": "https://github.com/Developer-Y/cs-video-courses",
+      "matched_title": "Computer Science Video Courses",
+      "matched_provider": "Developer-Y 维护者",
+      "matched_course_url": "https://github.com/Developer-Y/cs-video-courses"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "Project Based Learning 教程策展清单",
+      "provider": "practical-tutorials 社区",
+      "course_url": "https://github.com/practical-tutorials/project-based-learning",
+      "matched_title": "Project Based Learning",
+      "matched_provider": "Tuv Tran 与 Practical Tutorials 维护者",
+      "matched_course_url": "https://github.com/practical-tutorials/project-based-learning"
+    },
+    {
+      "reason": "duplicate_resource_curator",
+      "title": "OpenLearn 免费课程与互动资源目录",
+      "provider": "The Open University",
+      "course_url": "https://www.open.edu/openlearn/free-courses",
+      "matched_title": "OpenLearn Free Courses Catalogue",
+      "matched_provider": "The Open University",
+      "matched_course_url": "https://www.open.edu/openlearn/free-courses/full-catalogue"
+    },
+    {
+      "reason": "duplicate_course",
+      "title": "MIT OpenCourseWare 全课程检索",
+      "provider": "Massachusetts Institute of Technology",
+      "course_url": "https://ocw.mit.edu/search/",
+      "matched_title": "MIT OpenCourseWare Course Finder",
+      "matched_provider": "MIT OpenCourseWare",
+      "matched_course_url": "https://ocw.mit.edu/search/"
+    }
+  ]
+}

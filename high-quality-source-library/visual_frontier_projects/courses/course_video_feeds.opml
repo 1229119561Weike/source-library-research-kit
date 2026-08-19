@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>优质课程与学习资源视频订阅</title></head>
+  <body>
+    <outline text="机构" title="机构">
+      <outline type="rss" text="Class Central" title="Class Central Course Discovery and Reviews" xmlUrl="https://www.classcentral.com/report/feed/" htmlUrl="https://www.classcentral.com/"/>
+      <outline type="rss" text="Open Culture" title="Open Culture Free Online Courses" xmlUrl="https://www.openculture.com/feed" htmlUrl="https://www.openculture.com/freeonlinecourses"/>
+    </outline>
+    <outline text="个人" title="个人">
+      <outline type="rss" text="Matt DesLauriers" title="Creative Coding with Canvas &amp; WebGL" xmlUrl="https://mattdesl.substack.com/feed" htmlUrl="https://master.dev/courses/canvas-webgl/"/>
+      <outline type="rss" text="Josh W. Comeau" title="CSS for JavaScript Developers" xmlUrl="https://www.joshwcomeau.com/rss.xml" htmlUrl="https://css-for-js.dev/"/>
+      <outline type="rss" text="Steve Blank" title="How to Build a Startup" xmlUrl="https://steveblank.com/feed/" htmlUrl="https://www.udacity.com/course/how-to-build-a-startup--ep245"/>
+      <outline type="rss" text="Amit Patel / Red Blob Games" title="Introduction to A*" xmlUrl="https://www.redblobgames.com/blog/posts.xml" htmlUrl="https://www.redblobgames.com/pathfinding/a-star/introduction.html"/>
+      <outline type="rss" text="Bartosz Ciechanowski" title="Mechanical Watch" xmlUrl="https://ciechanow.ski/atom.xml" htmlUrl="https://ciechanow.ski/mechanical-watch/"/>
+      <outline type="rss" text="Scott H. Young" title="Rapid Learner" xmlUrl="https://www.scotthyoung.com/blog/feed/" htmlUrl="https://www.scotthyoung.com/blog/books-courses/"/>
+      <outline type="rss" text="David Silver" title="Reinforcement Learning" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" htmlUrl="https://davidstarsilver.wordpress.com/teaching/"/>
+      <outline type="rss" text="Julia Evans / Wizard Zines" title="The Pocket Guide to Debugging" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="https://wizardzines.com/zines/debugging-guide/"/>
+      <outline type="rss" text="Seth Godin" title="This Is Strategy" xmlUrl="https://seths.blog/feed/" htmlUrl="https://www.udemy.com/course/this-is-strategy-with-seth-godin/"/>
+    </outline>
+  </body>
+</opml>

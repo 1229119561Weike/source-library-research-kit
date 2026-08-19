@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-08-19",
+  "total": 167,
+  "resource_curators": 40,
+  "course_statuses": {
+    "重定向后可访问": 11,
+    "可访问": 146,
+    "超时/网络错误": 4,
+    "受限/反爬": 6
+  },
+  "video_statuses": {
+    "重定向后可访问": 8,
+    "可访问": 149,
+    "超时/网络错误": 4,
+    "受限/反爬": 6
+  },
+  "feed_statuses": {
+    "平台入口（非Feed）": 155,
+    "有效": 12
+  },
+  "valid_feed_entries": 12,
+  "unique_valid_feed_urls": 11
+}
